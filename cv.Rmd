@@ -22,6 +22,7 @@ Contact Info {#contact}
 - <i class="fa fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon)
 - <i class="fab fa-researchgate"></i> [bit.ly/2NpSWLw](https://www.researchgate.net/profile/John_Zobolas)
 - <i class="fab fa-linkedin"></i> [bit.ly/2TaPWbg](https://www.linkedin.com/in/JohnZobolas/)
+- <i class="fab fa-skype"></i> bblodfon
 - <i class="fa fa-phone"></i> +47 96808973
 - <i class="fa fa-phone"></i> +30 6936586236
 
@@ -53,136 +54,163 @@ John Zobolas {#title}
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Beijing University of Chemical Technology
+### National Technical University of Athens (NTUA)
 
-B.S. in Information and Computing Sciences
+M.Eng in Electrical and Computer Engineering
 
-Beijing, China
+Athens, Greece
 
-2010
+2007 - 2013
 
-Thesis: Dyadic wavelet and its application in edge detection
+Thesis: Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
+Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)
 
-### University of Chinese Academy of Sciences
+- Diploma degree: **8.4**
 
-M.S. in Bioinformatics
+### Athens University of Economics and Business (AUEB)
 
-Beijing, China
+MSc in Computer Science
 
-2014
+Athens, Greece
 
-Thesis: A multi-omics study for intra-individual divergence of the distributions between mRNA isoforms in mammals
+2013 - 2015
 
+Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)
 
-Research Experience {data-icon=laptop}
+- Diploma degree: **9.4**
+
+### Norwegian University of Science and Technology (NTNU)
+
+PhD in Computational Biology
+
+Trondheim, Norway
+
+2017 - 2021 (expected)
+
+I am currently enrolled in the PhD programme in Medical Technology, while being 
+a member of the multidisciplinary DrugLogics group in the department of Clinical 
+and Molecular Medicine (St. Olav's University Hospital). My areas of interest 
+include:
+
+- Logical modeling of molecular networks and cancer cell systems
+- Computer simulations and analysis of synergistic drug combinations
+- Mathematical models that describe drug synergy
+- Software development mostly in the area of data interoperability and biocuration
+
+Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Graduate Research Assistant
+### Database Performance Testing
 
-Beijing Institute of Genomics, Chinese Academy of Sciences
+Commsquare
 
-Beijing, China
+Athens, Greece
 
-2011 - 2014
+2013 - 2014
 
-- Performed computational biology research towards understanding regulation of alternative splicing in human and mouse transcriptome.
-- Found EGFR pathway related mutations, aimed to understand the impacts of cancer mutations on EGFR signaling pathway.
+- Testing different DB engines (MyISAM, XtraDB, TokuDB)
+- Tuning the OS filesystem (Linux)
+- Tuning the server's database configuration parameters
+- Optimizing the table schema, indexes and query performance
+- Maximize insertion speed performance
 
-### Bioinformatican
+### Linux Systems Engineer
 
-My Health Gene Technology Co., Ltd.
+Commsquare
 
-Beijing, China
+Athens, Greece
 
-2015 - 2016
+2014 - 2015
 
-- Investigated how cancer cells spread to other parts of the body at the single cell level.
-
-### Visiting Scientist
-
-University of Alabama at Birmingham
-
-AL, USA
-
-2016 - 2018
-
-- Investigated the role of mitochondria in development of cancer.
-- Investigated the evolution of genome architecture and its role in important evolutionary events.
-- Detected thrombotic thrombocytopenic purpura related mutations in mutiple patients' blood genome.
-  
-
-Professional Experience {data-icon=suitcase}
---------------------------------------------------------------------------------
-
-### Data Scientist, intern
-
-SupStat Inc.
-
-Beijing, China
-
-2014
-
-::: concise
-- Taught R language to beginners. 
-- Wrote Shiny app demos.
-- Converted statistical tutorials from SPSS to R language.
-:::
-
-### Bioinformatician
-
-My Health Gene Technology Co., Ltd.
-
-Beijing, China
-
-2015 - 2016
-
-::: concise
-- Analyzed whole-exome sequencing data. 
-- Wrote analysis pipelines of ChIP-seq, single cell DNA-seq and single cell RNA-seq.
-- Studied tumor metastasis and wrote research reports. 
-- Also did case studies to identify the genetic defect causing rare disease.
-:::
-
-
-Teaching Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners.
-
-Instructor of R and Data Mining Training Courses at SupStat Inc.
-
-Beijing, China
-
-2014
-
-### Computational Biology and Bioinformatics.
-
-Teaching assistant of GBS CB2-201 courses at UAB
-
-AL, USA
-
-2016 - 2017
-
+- Administration/Monitoring of Linux servers & Databases
+- Managing Customer Service Software & Support Ticket System
+- Installation of Datamon software
+- Software testing
 
 Selected Publications and Posters {data-icon=file}
 --------------------------------------------------------------------------------
 
-### Genetic and epigenetic signals are found predictive to the distribution of intra-individual divergence of alternative splicing.
+### DrugLogics: An ensemble model analysis related to drug prediction performance
 
-Poster for 2013 International Conference of Genomics
+[Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the 55th 
+Norwegian Biochemical Society (NBS) contact meeting
 
-Qingdao, China
+Røros, Norway
 
-2014
+2019
 
-**Yu L**, Chen B, Zhang Z.
+**John Zobolas**, Miguel Vazquez, Martin Kuiper, Åsmund Flobak
 
-### ESCRT-0 complex modulates Rbf mutant cell survival by regulating Rhomboid endosomal trafficking and EGFR signaling.
+Awards and Scholarships {data-icon=award}
+--------------------------------------------------------------------------------
+### Program «Great Moment for Education», Eurobank
 
-J Cell Sci. 2016 May 15;129(10):2075-84.
+Award for the highest grade in the Panhellenic examinations
 
 N/A
 
-2016 
+2007
 
-Sheng Z, **Yu L**, Zhang T, Pei X, Li X, Zhang Z and Du W. 
+### Program «Study with Scholarship», EqualSociety
+
+Scholarship that paid for the MSc in Computer Science (AUEB)
+
+N/A
+
+2013
+
+Music {data-icon=music}
+--------------------------------------------------------------------------------
+
+### School of Piano and Harmony
+
+Graduated with honours from Anagennisi Conservatory
+
+Athens, Greece
+
+2000 - 2007
+
+### Pianist
+
+Worked as a pianist in Konstantinidis pastry shops
+
+Goudi, Athens
+
+2009 - 2012
+
+### Youtube [<i class="fab fa-youtube"></i>](https://www.youtube.com/c/JohnZobolas)
+
+I maintain a youtube channel where I upload classical and contemporary piano
+music, transcriptions from anime, movies and games as well as my own 
+improvisations
+
+N/A
+
+2014
+
+Recreational Activities {data-icon=walking}
+--------------------------------------------------------------------------------
+
+### Juggling
+
+N/A
+
+N/A
+
+N/A
+
+### Chess
+
+N/A
+
+N/A
+
+N/A
+
+### Swimming, running, cycling
+
+N/A
+
+N/A
+
+N/A
