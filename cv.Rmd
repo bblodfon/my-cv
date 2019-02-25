@@ -89,7 +89,7 @@ Trondheim, Norway
 
 I am currently enrolled in the PhD programme in Medical Technology, while being 
 a member of the multidisciplinary DrugLogics group in the department of Clinical 
-and Molecular Medicine (St. Olav's University Hospital). My areas of interest 
+and Molecular Medicine (St. Olav's University Hospital). My research interests 
 include:
 
 - Logical modeling of molecular networks and cancer cell systems
