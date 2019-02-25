@@ -135,15 +135,15 @@ Selected Publications and Posters {data-icon=file}
 [Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the 55th 
 Norwegian Biochemical Society (NBS) contact meeting
 
-Røros, Norway
+RÃ¸ros, Norway
 
 2019
 
-**John Zobolas**, Miguel Vazquez, Martin Kuiper, Åsmund Flobak
+**John Zobolas**, Miguel Vazquez, Martin Kuiper, Ã…smund Flobak
 
 Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
-### Program «Great Moment for Education», Eurobank
+### Program Â«Great Moment for EducationÂ», Eurobank
 
 Award for the highest grade in the Panhellenic examinations
 
@@ -151,7 +151,7 @@ N/A
 
 2007
 
-### Program «Study with Scholarship», EqualSociety
+### Program Â«Study with ScholarshipÂ», EqualSociety
 
 Scholarship that paid for the MSc in Computer Science (AUEB)
 
