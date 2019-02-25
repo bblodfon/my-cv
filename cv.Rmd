@@ -63,9 +63,8 @@ Athens, Greece
 2007 - 2013
 
 Thesis: Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
-Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)
-
-- Diploma degree: **8.4**
+Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)  
+Diploma grade: **8.4**
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -75,9 +74,8 @@ Athens, Greece
 
 2013 - 2015
 
-Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)
-
-- Diploma degree: **9.4**
+Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)  
+Diploma grade: **9.4**
 
 ### Norwegian University of Science and Technology (NTNU)
 
@@ -127,19 +125,30 @@ Athens, Greece
 - Installation of Datamon software
 - Software testing
 
-Selected Publications and Posters {data-icon=file}
+Selected Publications and Posters {data-icon=file data-concise=true}
 --------------------------------------------------------------------------------
 
 ### DrugLogics: An ensemble model analysis related to drug prediction performance
 
-[Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the 55th 
-Norwegian Biochemical Society (NBS) contact meeting
+[Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the [55th 
+NBS contact meeting](https://www.biokjemisk.no/contact-meeting-2019/)
 
 Røros, Norway
 
 2019
 
-**John Zobolas**, Miguel Vazquez, Martin Kuiper, Ãsmund Flobak
+**John Zobolas**, Miguel Vazquez, Martin Kuiper, Åsmund Flobak
+
+### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
+Bioinformatics, btz132, [https://doi.org/10.1093/bioinformatics/btz132](https://doi.org/10.1093/bioinformatics/btz132)
+
+N/A
+
+N/A
+
+L Perfetto, M.L Acencio, G Bradley, G Cesareni, N Del Toro, D Fazekas, 
+H Hermjakob, T Korcsmaros, M Kuiper, A Lægreid, P Lo Surdo, R C Lovering, 
+S Orchard, P Porras, P D Thomas, V Touré, **J Zobolas**, L Licata
 
 Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
@@ -180,9 +189,7 @@ Goudi, Athens
 
 ### Youtube [<i class="fab fa-youtube"></i>](https://www.youtube.com/c/JohnZobolas)
 
-I maintain a youtube channel where I upload classical and contemporary piano
-music, transcriptions from anime, movies and games as well as my own 
-improvisations
+I maintain a youtube channel where I upload piano music
 
 N/A
 
@@ -191,26 +198,4 @@ N/A
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### Juggling
-
-N/A
-
-N/A
-
-N/A
-
-### Chess
-
-N/A
-
-N/A
-
-N/A
-
-### Swimming, running, cycling
-
-N/A
-
-N/A
-
-N/A
+### Juggling, chess, swimming, running, (uni)cycling
