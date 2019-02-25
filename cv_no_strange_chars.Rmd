@@ -1,0 +1,216 @@
+---
+title: "John Zobolas CV"
+author: Lijia Yu
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    self_contained: true
+---
+
+Aside
+================================================================================
+
+
+![John](https://dl.dropboxusercontent.com/s/t30ywkj3m0773yl/Me%20-%20Nov%202017.jpg?dl=0){width=60%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> bblodfon@gmail.com
+- <i class="fa fa-envelope"></i> john.zobolas@ntnu.no
+- <i class="fa fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon)
+- <i class="fab fa-researchgate"></i> [bit.ly/2NpSWLw](https://www.researchgate.net/profile/John_Zobolas)
+- <i class="fab fa-linkedin"></i> [bit.ly/2TaPWbg](https://www.linkedin.com/in/JohnZobolas/)
+- <i class="fab fa-skype"></i> bblodfon
+- <i class="fa fa-phone"></i> +47 96808973
+- <i class="fa fa-phone"></i> +30 6936586236
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Highly skilled in R (Rstudio), Java (IntelliJ, mvn), Javascript (WebStorm, npm)
+
+- Highly experienced in Linux, MS office
+
+- Familiar with Python, LaTeX, PHP, SQL, MATLAB, Prolog, C
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
+
+Last updated on `r Sys.Date()`.
+
+
+Main
+================================================================================
+
+John Zobolas {#title}
+--------------------------------------------------------------------------------
+
+### Currently employed as a PhD candidate at the Department of Biology, NTNU
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### National Technical University of Athens (NTUA)
+
+M.Eng in Electrical and Computer Engineering
+
+Athens, Greece
+
+2007 - 2013
+
+Thesis: Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
+Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)
+
+- Diploma degree: **8.4**
+
+### Athens University of Economics and Business (AUEB)
+
+MSc in Computer Science
+
+Athens, Greece
+
+2013 - 2015
+
+Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)
+
+- Diploma degree: **9.4**
+
+### Norwegian University of Science and Technology (NTNU)
+
+PhD in Computational Biology
+
+Trondheim, Norway
+
+2017 - 2021 (expected)
+
+I am currently enrolled in the PhD programme in Medical Technology, while being 
+a member of the multidisciplinary DrugLogics group in the department of Clinical 
+and Molecular Medicine (St. Olav's University Hospital). My areas of interest 
+include:
+
+- Logical modeling of molecular networks and cancer cell systems
+- Computer simulations and analysis of synergistic drug combinations
+- Mathematical models that describe drug synergy
+- Software development mostly in the area of data interoperability and biocuration
+
+Professional Experience {data-icon=suitcase data-concise=true}
+--------------------------------------------------------------------------------
+
+### Database Performance Testing
+
+Commsquare
+
+Athens, Greece
+
+2013 - 2014
+
+- Testing different DB engines (MyISAM, XtraDB, TokuDB)
+- Tuning the OS filesystem (Linux)
+- Tuning the server's database configuration parameters
+- Optimizing the table schema, indexes and query performance
+- Maximize insertion speed performance
+
+### Linux Systems Engineer
+
+Commsquare
+
+Athens, Greece
+
+2014 - 2015
+
+- Administration/Monitoring of Linux servers & Databases
+- Managing Customer Service Software & Support Ticket System
+- Installation of Datamon software
+- Software testing
+
+Selected Publications and Posters {data-icon=file}
+--------------------------------------------------------------------------------
+
+### DrugLogics: An ensemble model analysis related to drug prediction performance
+
+[Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the 55th 
+Norwegian Biochemical Society (NBS) contact meeting
+
+Roros, Norway
+
+2019
+
+**John Zobolas**, Miguel Vazquez, Martin Kuiper, Asmund Flobak
+
+Awards and Scholarships {data-icon=award}
+--------------------------------------------------------------------------------
+### Program "Great Moment for Education", Eurobank
+
+Award for the highest grade in the Panhellenic examinations
+
+N/A
+
+2007
+
+### Program "Study with Scholarship", EqualSociety
+
+Scholarship that paid for the MSc in Computer Science (AUEB)
+
+N/A
+
+2013
+
+Music {data-icon=music}
+--------------------------------------------------------------------------------
+
+### School of Piano and Harmony
+
+Graduated with honours from Anagennisi Conservatory
+
+Athens, Greece
+
+2000 - 2007
+
+### Pianist
+
+Worked as a pianist in Konstantinidis pastry shops
+
+Goudi, Athens
+
+2009 - 2012
+
+### Youtube [<i class="fab fa-youtube"></i>](https://www.youtube.com/c/JohnZobolas)
+
+I maintain a youtube channel where I upload classical and contemporary piano
+music, transcriptions from anime, movies and games as well as my own 
+improvisations
+
+N/A
+
+2014
+
+Recreational Activities {data-icon=walking}
+--------------------------------------------------------------------------------
+
+### Juggling
+
+N/A
+
+N/A
+
+N/A
+
+### Chess
+
+N/A
+
+N/A
+
+N/A
+
+### Swimming, running, cycling
+
+N/A
+
+N/A
+
+N/A
