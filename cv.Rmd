@@ -168,7 +168,7 @@ N/A
 
 2013
 
-Music {data-icon=music}
+Music {data-icon=music data-concise=true}
 --------------------------------------------------------------------------------
 
 ### School of Piano and Harmony
