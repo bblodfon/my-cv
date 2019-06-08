@@ -1,4 +1,4 @@
-# myCV
+# my-cv
 
 This repo holds the R code that generates 
 [my CV](https://bblodfon.github.io/myCV/cv.html).  
