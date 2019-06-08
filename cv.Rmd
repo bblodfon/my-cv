@@ -1,6 +1,6 @@
 ---
 title: "John Zobolas CV"
-author: Lijia Yu
+author: John Zobolas
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
@@ -21,27 +21,24 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> john.zobolas@ntnu.no
 - <i class="fa fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon)
 - <i class="fab fa-researchgate"></i> [bit.ly/2NpSWLw](https://www.researchgate.net/profile/John_Zobolas)
-- <i class="fab fa-linkedin"></i> [bit.ly/2TaPWbg](https://www.linkedin.com/in/JohnZobolas/)
 - <i class="fab fa-skype"></i> bblodfon
 - <i class="fa fa-phone"></i> +47 96808973
 - <i class="fa fa-phone"></i> +30 6936586236
 
-Skills {#skills}
+Technical skills {#skills}
 --------------------------------------------------------------------------------
 
-- Highly skilled in R (Rstudio), Java (IntelliJ, mvn), Javascript (WebStorm, npm)
+- Highly skilled in **R** (Rstudio), **Java** (IntelliJ) and **JavaScript** 
+(Webstorm)
 
-- Highly experienced in Linux, MS office
+- Familiar with **Python, C, LaTeX, SQL and Prolog**
 
-- Familiar with Python, LaTeX, PHP, SQL, MATLAB, Prolog, C
+- Highly experienced in **Linux**
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This CV was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
-
 Last updated on `r Sys.Date()`.
-
 
 Main
 ================================================================================
@@ -49,33 +46,14 @@ Main
 John Zobolas {#title}
 --------------------------------------------------------------------------------
 
-### Currently employed as a PhD candidate at the Department of Biology, NTNU
+Research software engineer with a passion for making reproducible data analyses 
+and for writing clean & tested code. 
+My research interests include modeling of cancer cell systems, predicting 
+synergistic drug combinations for cancer and understaning the mechanisms that 
+drive combinatorial treatment.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
-
-### National Technical University of Athens (NTUA)
-
-M.Eng in Electrical and Computer Engineering
-
-Athens, Greece
-
-2007 - 2013
-
-Thesis: Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
-Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)  
-Diploma grade: **8.4**
-
-### Athens University of Economics and Business (AUEB)
-
-MSc in Computer Science
-
-Athens, Greece
-
-2013 - 2015
-
-Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)  
-Diploma grade: **9.4**
 
 ### Norwegian University of Science and Technology (NTNU)
 
@@ -83,46 +61,48 @@ PhD in Computational Biology
 
 Trondheim, Norway
 
-2017 - 2021 (expected)
+2021 (expected) - 2017
 
-I am currently enrolled in the PhD programme in Medical Technology, while being 
-a member of the multidisciplinary DrugLogics group in the department of Clinical 
-and Molecular Medicine (St. Olav's University Hospital). My research interests 
-include:
+Currently employed as a PhD candidate in the Department of Biology and enrolled 
+in the PhD programme of Medical Technology hosted by the Faculty of Medicine.
 
-- Logical modeling of molecular networks and cancer cell systems
-- Computer simulations and analysis of synergistic drug combinations
-- Mathematical models that describe drug synergy
-- Software development mostly in the area of data interoperability and biocuration
+### Athens University of Economics and Business (AUEB)
+
+MSc in Computer Science
+
+Athens, Greece
+
+2015 - 2013
+
+Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)  
+Diploma grade: **9.4**
+
+### National Technical University of Athens (NTUA)
+
+M.Eng in Electrical and Computer Engineering
+
+Athens, Greece
+
+2013 - 2007
+
+Thesis: Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
+Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)  
+Diploma grade: **8.4**
 
 Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Database Performance Testing
+### Linux Systems Engineer and Database Performance Tester
 
 Commsquare
 
 Athens, Greece
 
-2013 - 2014
-
-- Testing different DB engines (MyISAM, XtraDB, TokuDB)
-- Tuning the OS filesystem (Linux)
-- Tuning the server's database configuration parameters
-- Optimizing the table schema, indexes and query performance
-- Maximize insertion speed performance
-
-### Linux Systems Engineer
-
-Commsquare
-
-Athens, Greece
-
-2014 - 2015
+2015 - 2013
 
 - Administration/Monitoring of Linux servers & Databases
-- Managing Customer Service Software & Support Ticket System
-- Installation of Datamon software
+- Database Performance tuning (optimizing queries, insertion speed)
+- Costumer support / Troubleshooting
 - Software testing
 
 Selected Publications and Posters {data-icon=file data-concise=true}
@@ -133,26 +113,34 @@ Selected Publications and Posters {data-icon=file data-concise=true}
 [Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the [55th 
 NBS contact meeting](https://www.biokjemisk.no/contact-meeting-2019/)
 
-Røros, Norway
+Roros, Norway
 
 2019
 
-**John Zobolas**, Miguel Vazquez, Martin Kuiper, Åsmund Flobak
+**John Zobolas**, Miguel Vazquez, Martin Kuiper, Asmund Flobak
 
 ### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
-Bioinformatics, btz132, [https://doi.org/10.1093/bioinformatics/btz132](https://doi.org/10.1093/bioinformatics/btz132)
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)
 
 N/A
 
 N/A
 
 L Perfetto, M.L Acencio, G Bradley, G Cesareni, N Del Toro, D Fazekas, 
-H Hermjakob, T Korcsmaros, M Kuiper, A Lægreid, P Lo Surdo, R C Lovering, 
-S Orchard, P Porras, P D Thomas, V Touré, **J Zobolas**, L Licata
+H Hermjakob, T Korcsmaros, M Kuiper, A Laegreid, P Lo Surdo, R C Lovering, 
+S Orchard, P Porras, P D Thomas, V Toure, **J Zobolas**, L Licata
 
 Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
-### Program «Great Moment for Education», Eurobank
+### Program *Study with Scholarship*, EqualSociety
+
+Scholarship for the MSc in Computer Science (AUEB)
+
+N/A
+
+2013
+
+### Program *Great Moment for Education*, Eurobank
 
 Award for the highest grade in the Panhellenic examinations
 
@@ -160,32 +148,8 @@ N/A
 
 2007
 
-### Program «Study with Scholarship», EqualSociety
-
-Scholarship that paid for the MSc in Computer Science (AUEB)
-
-N/A
-
-2013
-
 Music {data-icon=music data-concise=true}
 --------------------------------------------------------------------------------
-
-### School of Piano and Harmony
-
-Graduated with honours from Anagennisi Conservatory
-
-Athens, Greece
-
-2000 - 2007
-
-### Pianist
-
-Worked as a pianist in Konstantinidis pastry shops
-
-Goudi, Athens
-
-2009 - 2012
 
 ### Youtube [<i class="fab fa-youtube"></i>](https://www.youtube.com/c/JohnZobolas)
 
@@ -195,7 +159,23 @@ N/A
 
 2014
 
+### Pianist
+
+Worked as a pianist in Konstantinidis pastry shops
+
+Goudi, Athens
+
+2012 - 2009
+
+### School of Piano and Harmony
+
+Graduated with honours from Anagennisi Conservatory
+
+Athens, Greece
+
+2007 - 2000
+
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### Juggling, chess, swimming, running, (uni)cycling
+### Juggling, unicycling, swimming, chess, running
