@@ -4,14 +4,14 @@ author: John Zobolas
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    self_contained: true
+    css: css/resume.css
+    self_contained: false
 ---
 
 Aside
 ================================================================================
 
-
-![John](https://dl.dropboxusercontent.com/s/t30ywkj3m0773yl/Me%20-%20Nov%202017.jpg?dl=0){width=60%}
+![John](img/me.jpg){width=60%}
 
 
 Contact Info {#contact}
@@ -129,6 +129,16 @@ N/A
 L Perfetto, M.L Acencio, G Bradley, G Cesareni, N Del Toro, D Fazekas, 
 H Hermjakob, T Korcsmaros, M Kuiper, A Laegreid, P Lo Surdo, R C Lovering, 
 S Orchard, P Porras, P D Thomas, V Toure, **J Zobolas**, L Licata
+
+### VSM-box: the general-purpose curation interface as an open-source web-component
+
+[Poster](https://doi.org/10.7490/f1000research.1116577.1) presented at the [The 12th International Biocuration Conference 2019](https://www.biocuration2019.org/)
+
+Cambridge, UK
+
+N/A
+
+Steven Vercruysse, **John Zobolas**, Vasundra Toure, Martin Kuiper
 
 Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
