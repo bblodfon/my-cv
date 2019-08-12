@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
     css: css/resume.css
-    self_contained: false
+    self_contained: true
 ---
 
 Aside
