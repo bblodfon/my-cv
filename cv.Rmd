@@ -188,4 +188,4 @@ Athens, Greece
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### Juggling, unicycling, swimming, chess, running
+### Juggling, unicycling, swimming, chess
