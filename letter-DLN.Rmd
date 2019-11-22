@@ -1,0 +1,44 @@
+---
+title: "Motivational Letter for Digital Life Industry Internship"
+author: "John Zobolas"
+output:
+  pagedown::html_letter:
+    self_contained: false
+links-to-footnotes: true
+paged-footnotes: true
+---
+
+::: from
+John Zobolas, PhD Candidate, NTNU  
+Trondheim, Norway  
+Eidsvolls Gate 16, 7030  
+Email (personal): bblodfon@gmail.com  
+Email (university): john.zobolas@ntnu.no  
+GitHub: https://github.com/bblodfon
+:::
+
+::: date
+November 22, 2019
+:::
+
+Dear Sir/Madam,
+<div style="text-align: justify"> 
+During the course of a PhD life, you always search for opportunities to acquire more knowledge and practical experience that will help your work in a meaningful manner. 
+Sometimes it is also nice to try something different, something you might not be comfortable with, something exciting. 
+I was thus very intrigued when I learned about the opportunity to do an internship in a biotech company supported by Digital Life Norway.
+
+My experience and interests lie in the areas of software programming, reproducible data analyses and data visualization. 
+I have worked with various technologies and tools (*R*, *Java* and *JavaScript* being my strong programming languages) from my undergraduate years as an electrical and computer engineer student up until today as a PhD candidate. 
+I worked for 2 years as a Linux Systems engineer and software tester in a telecommunications company which made me realize that I don't just enjoy the technical knowledge that a position offers but also the everyday work challenges and responsibilities as well as the interaction with other people - understanding what is their passion, how they do their work, what I can learn from them and what I can give back. 
+At the end of the day what really matters (and the biggest challenge of them all) is to give concrete answers/solutions to the questions and problems that your colleagues have for years! If you achieve that, then that's a true praise for me in any kind of work (academia or industry).
+
+I believe that this industry internship is a great opportunity to broaden my horizon not only with regards to my technical expertise but also from a social point of view: meet new people, learn about new technologies and in the end experience something outside of my PhD as a fun side-quest!
+</div>
+
+Yours faithfully,
+
+![My signature](img/sign.svg){width=20%}  
+John Zobolas  
+
+PhD Candidate  
+Department of Biology, NTNU
