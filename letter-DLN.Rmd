@@ -12,8 +12,7 @@ paged-footnotes: true
 John Zobolas, PhD Candidate, NTNU  
 Trondheim, Norway  
 Eidsvolls Gate 16, 7030  
-Email (personal): bblodfon@gmail.com  
-Email (university): john.zobolas@ntnu.no  
+Email: john.zobolas@ntnu.no  
 GitHub: https://github.com/bblodfon
 :::
 
