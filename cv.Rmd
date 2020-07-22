@@ -56,6 +56,9 @@ Main
 John Zobolas {#title}
 --------------------------------------------------------------------------------
 
+keywords (to put somewhere. sometime if the below stays true):
+Research software engineering, Data analysis/visualization, Software testing and Reproducibility, Modeling biological systems, Mathematical models for drug synergy quantification
+
 Research software engineer with a passion for making reproducible data analyses 
 and for writing clean & tested code. 
 My research interests include modeling of cancer cell systems, predicting 
