@@ -56,14 +56,9 @@ Main
 John Zobolas {#title}
 --------------------------------------------------------------------------------
 
-keywords (to put somewhere. sometime if the below stays true):
-Research software engineering, Data analysis/visualization, Software testing and Reproducibility, Modeling biological systems, Mathematical models for drug synergy quantification
-
-Research software engineer with a passion for making reproducible data analyses 
-and for writing clean & tested code. 
-My research interests include modeling of cancer cell systems, predicting 
-synergistic drug combinations for cancer and understaning the mechanisms that 
-drive combinatorial treatment.
+I have a diverse background, from mathematics and computer science, to software engineering and modeling.
+My strongest quality is careful, analytical thinking.
+I really like making clean and test-driven software that enables technology-driven applications, as well as analyzing and visualizing research data to augment understanding of model-driven biological processes.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -77,7 +72,7 @@ Trondheim, Norway
 2021 (expected) - 2017
 
 Currently employed as a PhD candidate in the Department of Biology and enrolled 
-in the PhD programme of Medical Technology hosted by the Faculty of Medicine.
+in the Medical Technology PhD program hosted by the Faculty of Medicine and Health Sciences.
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -121,6 +116,51 @@ Athens, Greece
 Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
+### CausalBuilder: bringing the MI2CAST causal interaction annotation standard to the curator
+[Database](https://doi.org/10.1093/database/baaa107)
+
+N/A
+
+2021
+
+Touré V, **Zobolas J.**, Kuiper M., Vercruysse S.
+
+### Linking PubDictionaries with UniBioDicts to support Community Curation
+[BioHackrXiv](https://doi.org/10.37044/osf.io/gzfa8)
+
+N/A
+
+2020
+
+**Zobolas J.**, Kim J-D, Kuiper M., Vercruysse S.
+
+### UniBioDicts: Unified access to biological dictionaries
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065)
+
+N/A
+
+N/A
+
+**Zobolas J.**, Touré V., Kuiper M., Vercruysse S.
+
+### VSM-box: general-purpose interface for biocuration and knowledge representation
+[Preprints](https://doi.org/10.20944/preprints202007.0557.v1)
+
+N/A
+
+N/A
+
+Vercruysse, S., **Zobolas J.**, Touré V., Andersen M.K., Kuiper M.
+
+### emba: R package for analysis and visualization of biomarkers in boolean model ensembles
+[Journal of Open Source Software](https://doi.org/10.21105/joss.02583)
+
+N/A
+
+N/A
+
+**Zobolas J.**, Kuiper M., Flobak Å.
+
 ### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
 [Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)
 
@@ -128,7 +168,7 @@ N/A
 
 2019
 
-L Perfetto, ..., **J Zobolas**, L Licata
+Perfetto L., ..., **Zobolas, J.**, Licata L.
 
 Posters {data-icon=file data-concise=true}
 --------------------------------------------------------------------------------
@@ -142,7 +182,7 @@ Roros, Norway
 
 2019
 
-**John Zobolas**, Miguel Vazquez, Martin Kuiper, Asmund Flobak
+**Zobolas J.**, Vazquez M., Kuiper M., Flobak Å.
 
 ### VSM-box: the general-purpose curation interface as an open-source web-component
 
@@ -152,7 +192,7 @@ Cambridge, UK
 
 N/A
 
-Steven Vercruysse, **John Zobolas**, Vasundra Toure, Martin Kuiper
+Vercruysse S., **Zobolas J.**, Touré V., Kuiper M.
 
 Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
@@ -193,7 +233,7 @@ Goudi, Athens
 
 ### School of Piano and Harmony
 
-Graduated with honours from Anagennisi Conservatory
+Graduated with honors from Anagennisi Conservatory
 
 Athens, Greece
 
@@ -202,4 +242,4 @@ Athens, Greece
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### [Juggling](https://www.instagram.com/bblodfon312/), unicycling, swimming, chess
+### [Juggling](https://www.instagram.com/bblodfon312/), unicycling, fitness training
