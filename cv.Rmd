@@ -100,6 +100,17 @@ Diploma grade: **8.4**
 Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
+### Digital Life Norway Industry Internship (3 months)
+
+AstraZeneca
+
+Gothenburg, Sweden
+
+2021
+
+- Predicting bioactivity data using Bayesian Matrix Factorization
+- Target clustering and validation for phenotypic screens
+
 ### Linux Systems Engineer and Database Performance Tester
 
 Commsquare
@@ -112,6 +123,8 @@ Athens, Greece
 - Database Performance tuning (optimizing queries, insertion speed)
 - Costumer support / Troubleshooting
 - Software testing
+
+\newpage 
 
 Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
