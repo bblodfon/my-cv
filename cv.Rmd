@@ -22,7 +22,7 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> bblodfon@gmail.com
 - <i class="fa fa-envelope"></i> john.zobolas@ntnu.no
 - <i class="fa fa-github"></i> [\@bblodfon](https://github.com/bblodfon)
-- <i class="fab fa-researchgate"></i> [ResearhGate](bit.ly/2NpSWLw)
+- <i class="fab fa-researchgate"></i> [ResearhGate](http://tiny.cc/john-Re-gate)
 - <i class="fab fa-skype"></i> bblodfon
 - <i class="fa fa-phone"></i> +47 96808973
 - <i class="fa fa-phone"></i> +30 6936586236
@@ -58,7 +58,7 @@ John Zobolas {#title}
 
 I have a diverse background, from mathematics and computer science, to software engineering and modeling.
 My strongest quality is careful, analytical thinking.
-I really like making clean and test-driven software that enables technology-driven applications, as well as analyzing and visualizing research data to augment understanding of model-driven biological processes.
+I like writing clean and test-driven software that enables technology-driven applications, as well as analyzing and visualizing research data to augment understanding of model-driven biological processes.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
