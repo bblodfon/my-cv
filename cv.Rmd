@@ -71,8 +71,7 @@ Trondheim, Norway
 
 2021 (expected) - 2017
 
-Currently employed as a PhD candidate in the Department of Biology and enrolled 
-in the Medical Technology PhD program hosted by the Faculty of Medicine and Health Sciences.
+Thesis: Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine <a href="https://bblodfon.github.io/my-phd-thesis/" class="fa fa-github"></a>
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -82,7 +81,7 @@ Athens, Greece
 
 2015 - 2013
 
-Thesis: SkyLighting Web Application with three.js [<i class="fa fa-github"></i>](https://github.com/bblodfon/skylighting-Web-app)  
+Thesis: SkyLighting Web Application with three.js <a href="https://github.com/bblodfon/skylighting-Web-app" class="fa fa-github"></a>  
 Diploma grade: **9.4**
 
 ### National Technical University of Athens (NTUA)
@@ -94,7 +93,7 @@ Athens, Greece
 2013 - 2007
 
 Thesis: Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
-Networks [<i class="fa fa-github"></i>](https://github.com/bblodfon/femto-power-control)  
+Networks <a href="https://github.com/bblodfon/femto-power-control" class="fa fa-github"></a>  
 Diploma grade: **8.4**
 
 Professional Experience {data-icon=suitcase data-concise=true}
