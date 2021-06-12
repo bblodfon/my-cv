@@ -4,8 +4,8 @@ author: John Zobolas
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: css/resume.css
-    self_contained: true
+    css: [ "css/resume.css", "academicons-1.9.1/css/academicons.css"]
+    self_contained: false
 ---
 
 Aside
@@ -22,7 +22,8 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> bblodfon@gmail.com
 - <i class="fa fa-envelope"></i> john.zobolas@ntnu.no
 - <i class="fa fa-github"></i> [\@bblodfon](https://github.com/bblodfon)
-- <i class="fab fa-researchgate"></i> [ResearhGate](http://tiny.cc/john-Re-gate)
+- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en)
+- <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate)
 - <i class="fab fa-skype"></i> bblodfon
 - <i class="fa fa-phone"></i> +47 96808973
 - <i class="fa fa-phone"></i> +30 6936586236
