@@ -126,7 +126,7 @@ Athens, Greece
 
 \newpage 
 
-Publications {data-icon=book data-concise=true}
+Selected Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
 ### CausalBuilder: bringing the MI2CAST causal interaction annotation standard to the curator
@@ -155,15 +155,6 @@ N/A
 N/A
 
 **Zobolas J.**, Touré V., Kuiper M., Vercruysse S.
-
-### VSM-box: general-purpose interface for biocuration and knowledge representation
-[Preprints](https://doi.org/10.20944/preprints202007.0557.v1)
-
-N/A
-
-N/A
-
-Vercruysse, S., **Zobolas J.**, Touré V., Andersen M.K., Kuiper M.
 
 ### emba: R package for analysis and visualization of biomarkers in boolean model ensembles
 [Journal of Open Source Software](https://doi.org/10.21105/joss.02583)
