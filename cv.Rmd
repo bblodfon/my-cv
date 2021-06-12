@@ -130,31 +130,31 @@ Selected Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
 ### CausalBuilder: bringing the MI2CAST causal interaction annotation standard to the curator
-[Database](https://doi.org/10.1093/database/baaa107)
+[Database](https://doi.org/10.1093/database/baaa107){target="_blank"}
 
 N/A
 
 2021
 
 ### Linking PubDictionaries with UniBioDicts to support Community Curation
-[BioHackrXiv](https://doi.org/10.37044/osf.io/gzfa8)
+[BioHackrXiv](https://doi.org/10.37044/osf.io/gzfa8){target="_blank"}
 
 N/A
 
 2020
 
 ### UniBioDicts: Unified access to biological dictionaries
-[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065)
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065){target="_blank"}
 
 N/A
 
 ### emba: R package for analysis and visualization of biomarkers in boolean model ensembles
-[Journal of Open Source Software](https://doi.org/10.21105/joss.02583)
+[Journal of Open Source Software](https://doi.org/10.21105/joss.02583){target="_blank"}
 
 N/A
 
 ### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
-[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132){target="_blank"}
 
 N/A
 
