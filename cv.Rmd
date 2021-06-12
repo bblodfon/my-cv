@@ -21,9 +21,9 @@ Contact Info {#contact}
 
 - <i class="fa fa-envelope"></i> bblodfon@gmail.com
 - <i class="fa fa-envelope"></i> john.zobolas@ntnu.no
-- <i class="fa fa-github"></i> [\@bblodfon](https://github.com/bblodfon)
-- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en)
-- <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate)
+- <i class="fa fa-github"></i> [\@bblodfon](https://github.com/bblodfon){target="_blank"}
+- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en){target="_blank"}
+- <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate){target="_blank"}
 - <i class="fab fa-skype"></i> bblodfon
 - <i class="fa fa-phone"></i> +47 96808973
 - <i class="fa fa-phone"></i> +30 6936586236
@@ -72,7 +72,7 @@ Trondheim, Norway
 
 2021 (expected) - 2017
 
-**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* <a href="https://bblodfon.github.io/my-phd-thesis/" class="fa fa-github"></a>
+**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* <a href="https://bblodfon.github.io/my-phd-thesis/" class="fa fa-github" target="_blank"></a>
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -82,7 +82,7 @@ Athens, Greece
 
 2015 - 2013
 
-**Thesis:** *SkyLighting Web Application with three.js* <a href="https://github.com/bblodfon/skylighting-Web-app" class="fa fa-github"></a>  
+**Thesis:** *SkyLighting Web Application with three.js* <a href="https://github.com/bblodfon/skylighting-Web-app" class="fa fa-github" target="_blank"></a>  
 Diploma grade: **9.4**
 
 ### National Technical University of Athens (NTUA)
@@ -94,7 +94,7 @@ Athens, Greece
 2013 - 2007
 
 **Thesis:** *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
-Networks* <a href="https://github.com/bblodfon/femto-power-control" class="fa fa-github"></a>  
+Networks* <a href="https://github.com/bblodfon/femto-power-control" class="fa fa-github" target="_blank"></a>  
 Diploma grade: **8.4**
 
 Professional Experience {data-icon=suitcase data-concise=true}
@@ -136,8 +136,6 @@ N/A
 
 2021
 
-Touré V, **Zobolas J.**, Kuiper M., Vercruysse S.
-
 ### Linking PubDictionaries with UniBioDicts to support Community Curation
 [BioHackrXiv](https://doi.org/10.37044/osf.io/gzfa8)
 
@@ -145,25 +143,15 @@ N/A
 
 2020
 
-**Zobolas J.**, Kim J-D, Kuiper M., Vercruysse S.
-
 ### UniBioDicts: Unified access to biological dictionaries
 [Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065)
 
 N/A
 
-N/A
-
-**Zobolas J.**, Touré V., Kuiper M., Vercruysse S.
-
 ### emba: R package for analysis and visualization of biomarkers in boolean model ensembles
 [Journal of Open Source Software](https://doi.org/10.21105/joss.02583)
 
 N/A
-
-N/A
-
-**Zobolas J.**, Kuiper M., Flobak Å.
 
 ### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
 [Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)
@@ -171,32 +159,6 @@ N/A
 N/A
 
 2019
-
-Perfetto L., ..., **Zobolas, J.**, Licata L.
-
-Posters {data-icon=file data-concise=true}
---------------------------------------------------------------------------------
-
-### DrugLogics: An ensemble model analysis related to drug prediction performance
-
-[Poster](https://doi.org/10.7490/f1000research.1116420.1) presented at the [55th 
-NBS contact meeting](https://www.biokjemisk.no/contact-meeting-2019/)
-
-Roros, Norway
-
-2019
-
-**Zobolas J.**, Vazquez M., Kuiper M., Flobak Å.
-
-### VSM-box: the general-purpose curation interface as an open-source web-component
-
-[Poster](https://doi.org/10.7490/f1000research.1116577.1) presented at the [The 12th International Biocuration Conference 2019](https://www.biocuration2019.org/)
-
-Cambridge, UK
-
-N/A
-
-Vercruysse S., **Zobolas J.**, Touré V., Kuiper M.
 
 Awards and Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
@@ -219,9 +181,9 @@ N/A
 Music {data-icon=music data-concise=true}
 --------------------------------------------------------------------------------
 
-### Youtube [<i class="fab fa-youtube"></i>](https://www.youtube.com/c/JohnZobolas)
+### YouTube <a href="https://www.youtube.com/c/JohnZobolas" class="fab fa-youtube" target="_blank"></a>
 
-I maintain a youtube channel where I upload piano music
+I maintain a YouTube channel where I upload piano music
 
 N/A
 
@@ -246,4 +208,4 @@ Athens, Greece
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### [Juggling](https://www.instagram.com/bblodfon312/), unicycling, fitness training
+### [Juggling](https://www.instagram.com/bblodfon312/){target="_blank"}, unicycling, fitness training
