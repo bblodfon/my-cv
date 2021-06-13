@@ -57,9 +57,13 @@ Main
 John Zobolas {#title}
 --------------------------------------------------------------------------------
 
-I have a diverse background, from mathematics and computer science, to software engineering and modeling.
+<p style="text-align:justify">
+I have a diverse background, from mathematics and computer science, to <b>software engineering</b> and <b>modeling</b>.
 My strongest quality is careful, analytical thinking.
-I like writing clean and test-driven software that enables technology-driven applications, as well as analyzing and visualizing research data to augment understanding of model-driven biological processes.
+I like writing <b>clean</b> and <b>test-driven software</b> that enables technological applications, as well as analyzing and <b>visualizing data</b> to facilitate understanding of biological processes.
+</p>
+
+I spend my free time playing the piano, juggling or reading books.
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
