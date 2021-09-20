@@ -19,14 +19,14 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fa fa-envelope"></i> bblodfon@gmail.com
-- <i class="fa fa-envelope"></i> john.zobolas@ntnu.no
-- <i class="fa fa-github"></i> [\@bblodfon](https://github.com/bblodfon){target="_blank"}
+- <i class="fas fa-envelope"></i> bblodfon@gmail.com
+- <i class="fas fa-envelope"></i> john.zobolas@ntnu.no
+- <i class="fab fa-github"></i> [\@bblodfon](https://github.com/bblodfon){target="_blank"}
 - <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en){target="_blank"}
 - <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate){target="_blank"}
 - <i class="fab fa-skype"></i> bblodfon
-- <i class="fa fa-phone"></i> +47 96808973
-- <i class="fa fa-phone"></i> +30 6936586236
+- <i class="fas fa-phone"></i> +47 96808973
+- <i class="fas fa-phone"></i> +30 6936586236
 
 Skills {#skills}
 --------------------------------------------------------------------------------
@@ -57,26 +57,24 @@ Main
 John Zobolas {#title}
 --------------------------------------------------------------------------------
 
-<p style="text-align:justify">
+<p style="text-align:justify; background-color:#e1d8f0; border-radius: 5px; padding: 20px;">
 I have a diverse background, from mathematics and computer science, to <b>software engineering</b> and <b>modeling</b>.
 My strongest quality is careful, analytical thinking.
-I like writing <b>clean</b> and <b>test-driven software</b> that enables technological applications, as well as analyzing and <b>visualizing data</b> to facilitate understanding of biological processes.
-</p>
-
-I spend my free time playing the piano, juggling or reading books.
+I like writing <b>clean</b> and <b>test-driven software</b> that enables technological applications, as well as <b>analyzing and visualizing data</b> to facilitate understanding of biological processes. </br></br>
+I spend my free time playing the piano, juggling or reading books.</p>
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Norwegian University of Science and Technology (NTNU)
 
-PhD in Computational Biology
+PhD in Medical Technology / Computational Biology
 
 Trondheim, Norway
 
-2021 (expected) - 2017
+2021 - 2017
 
-**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* <a href="https://bblodfon.github.io/my-phd-thesis/" class="fa fa-github" target="_blank"></a>
+**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-degree" target="_blank">PhD Degree</a>]
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -86,7 +84,7 @@ Athens, Greece
 
 2015 - 2013
 
-**Thesis:** *SkyLighting Web Application with three.js* <a href="https://github.com/bblodfon/skylighting-Web-app" class="fa fa-github" target="_blank"></a>  
+**Thesis:** *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
 Diploma grade: **9.4**
 
 ### National Technical University of Athens (NTUA)
@@ -98,7 +96,7 @@ Athens, Greece
 2013 - 2007
 
 **Thesis:** *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
-Networks* <a href="https://github.com/bblodfon/femto-power-control" class="fa fa-github" target="_blank"></a>  
+Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
 Diploma grade: **8.4**
 
 Professional Experience {data-icon=suitcase data-concise=true}
@@ -164,7 +162,7 @@ N/A
 
 2019
 
-Awards and Scholarships {data-icon=award}
+Awards/Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
 ### Program *Study with Scholarship*, EqualSociety
 
@@ -187,7 +185,7 @@ Music {data-icon=music data-concise=true}
 
 ### YouTube <a href="https://www.youtube.com/c/JohnZobolas" class="fab fa-youtube" target="_blank"></a>
 
-I maintain a YouTube channel where I upload piano music
+I maintain a <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> in which I upload piano music
 
 N/A
 
@@ -212,4 +210,14 @@ Athens, Greece
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### [Juggling](https://www.instagram.com/bblodfon312/){target="_blank"}, unicycling, fitness training
+### [Juggling](https://www.instagram.com/bblodfon312/){target="_blank"} <i class="fab fa-instagram"></i>
+
+N/A
+
+N/A
+
+### Fitness
+
+N/A
+
+N/A
