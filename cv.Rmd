@@ -74,7 +74,7 @@ Trondheim, Norway
 
 2021 - 2017
 
-**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-degree" target="_blank">PhD Degree</a>]
+**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-degree" target="_blank">Conferment</a>]
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -185,9 +185,9 @@ Music {data-icon=music data-concise=true}
 
 ### YouTube <a href="https://www.youtube.com/c/JohnZobolas" class="fab fa-youtube" target="_blank"></a>
 
-I maintain a <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> in which I upload piano music
+I have a <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> in which I upload piano music
 
-N/A
+Everywhere!
 
 2014
 
@@ -195,7 +195,7 @@ N/A
 
 Worked as a pianist in Konstantinidis pastry shops
 
-Goudi, Athens
+Athens, Greece
 
 2012 - 2009
 
@@ -210,7 +210,9 @@ Athens, Greece
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### [Juggling](https://www.instagram.com/bblodfon312/){target="_blank"} <i class="fab fa-instagram"></i>
+### Juggling <a href="https://www.instagram.com/bblodfon312/" class="fab fa-instagram" target="_blank"></a>
+
+Check out my <a href="https://www.instagram.com/bblodfon312/" target="_blank">Instagram account</a> for videos with juggling tricks!
 
 N/A
 
