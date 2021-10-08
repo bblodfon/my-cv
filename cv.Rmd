@@ -13,8 +13,8 @@ Aside
 
 <i class="fas fa-download"></i> Download this resume in [PDF](https://bblodfon.github.io/my-cv/cv.pdf).
 
-![John](img/me.jpg)
-
+<img src></img>
+![John](img/me2.jpg)
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -74,7 +74,7 @@ Trondheim, Norway
 
 2021 - 2017
 
-**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-degree" target="_blank">Conferment</a>]
+**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-conferment" target="_blank">Conferment</a>]
 
 ### Athens University of Economics and Business (AUEB)
 
@@ -128,29 +128,29 @@ Athens, Greece
 
 \newpage 
 
-Selected Publications {data-icon=book data-concise=true}
+Selected Publications and Books {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
-### CausalBuilder: bringing the MI2CAST causal interaction annotation standard to the curator
-[Database](https://doi.org/10.1093/database/baaa107){target="_blank"}
+### *8 Rules to write a PhD Thesis*: A PhD Thesis Rulebook
+<a href="https://bblodfon.github.io/phd-rules/index.html" target="_blank">Online GitBook</a> <i class="fab fa-github"></i>
 
 N/A
 
 2021
 
-### Linking PubDictionaries with UniBioDicts to support Community Curation
-[BioHackrXiv](https://doi.org/10.37044/osf.io/gzfa8){target="_blank"}
+### *CausalBuilder*: bringing the MI2CAST causal interaction annotation standard to the curator
+[Database](https://doi.org/10.1093/database/baaa107){target="_blank"}
+
+N/A
+
+### *UniBioDicts*: Unified access to biological dictionaries
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065){target="_blank"}
 
 N/A
 
 2020
 
-### UniBioDicts: Unified access to biological dictionaries
-[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065){target="_blank"}
-
-N/A
-
-### emba: R package for analysis and visualization of biomarkers in boolean model ensembles
+### *emba*: R package for analysis and visualization of biomarkers in boolean model ensembles
 [Journal of Open Source Software](https://doi.org/10.21105/joss.02583){target="_blank"}
 
 N/A
