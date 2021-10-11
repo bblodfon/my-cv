@@ -74,7 +74,7 @@ Trondheim, Norway
 
 2021 - 2017
 
-**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-conferment" target="_blank">Conferment</a>]
+**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine* [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
 
 ### Athens University of Economics and Business (AUEB)
 
