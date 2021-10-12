@@ -198,39 +198,18 @@ N/A
 
 2007
 
-Music {data-icon=music data-concise=true}
---------------------------------------------------------------------------------
-
-### YouTube <a href="https://www.youtube.com/c/JohnZobolas" class="fab fa-youtube" target="_blank"></a>
-
-I have a <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> in which I upload piano music
-
-Everywhere!
-
-2014
-
-### Pianist
-
-Worked as a pianist in Konstantinidis pastry shops
-
-Athens, Greece
-
-2012 - 2009
-
-### School of Piano and Harmony
-
-Graduated with honors from Anagennisi Conservatory
-
-Athens, Greece
-
-2007 - 2000
-
-\newpage
-
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### Juggling <a href="https://www.instagram.com/bblodfon312/" class="fab fa-instagram" target="_blank"></a>
+### Playing piano <i class="fab fa-youtube"></i> <i class="fas fa-music"></i>
+
+I have a <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> in which I upload piano music!
+
+N/A
+
+N/A
+
+### Juggling <i class="fab fa-instagram"></i>
 
 Check out my <a href="https://www.instagram.com/bblodfon312/" target="_blank">Instagram account</a> for videos with juggling tricks!
 
@@ -238,7 +217,7 @@ N/A
 
 N/A
 
-### Fitness
+### Fitness <i class="fas fa-dumbbell"></i>
 
 N/A
 
