@@ -44,12 +44,15 @@ Skills {#skills}
 
 <i class="fab fa-python"></i> `Python`
 
+<i class="fas fa-database"></i> `MariaDB`
+
 <i class="fas fa-code-branch"></i> `Git`
+
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Last updated on `r Sys.Date()`.
+<!-- Last updated on `r Sys.Date()`. -->
 
 Main
 ================================================================================
