@@ -131,15 +131,20 @@ Athens, Greece
 
 \newpage 
 
-Selected Publications and Books {data-icon=book data-concise=true}
+Selected Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
-### *8 Rules to write a PhD Thesis*: A PhD Thesis Rulebook
-<a href="https://bblodfon.github.io/phd-rules/index.html" target="_blank">Online GitBook</a> <i class="fab fa-github"></i>
+### Logical modeling: Combining manual curation and automated parameterization to predict drug synergies
+[bioRxiv - Preprint](https://doi.org/10.1101/2021.06.28.450165)
 
 N/A
 
 2021
+
+### Boolean function metrics can assist modelers to check and choose logical rules
+[arXiv - Preprint](https://arxiv.org/abs/2104.01279)
+
+N/A
 
 ### *CausalBuilder*: bringing the MI2CAST causal interaction annotation standard to the curator
 [Database](https://doi.org/10.1093/database/baaa107){target="_blank"}
@@ -164,6 +169,16 @@ N/A
 N/A
 
 2019
+
+Books {data-icon=book data-concise=true}
+--------------------------------------------------------------------------------
+
+### *8 Rules to write a PhD Thesis*: A PhD Thesis Rulebook
+<a href="https://bblodfon.github.io/phd-rules/index.html" target="_blank">Online GitBook</a> <i class="fab fa-github"></i>
+
+N/A
+
+2021
 
 Awards/Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
@@ -209,6 +224,8 @@ Graduated with honors from Anagennisi Conservatory
 Athens, Greece
 
 2007 - 2000
+
+\newpage
 
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
