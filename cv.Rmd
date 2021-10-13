@@ -20,11 +20,10 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fas fa-envelope"></i> bblodfon@gmail.com
-- <i class="fas fa-envelope"></i> john.zobolas@ntnu.no
-- <i class="fab fa-github"></i> [\@bblodfon](https://github.com/bblodfon){target="_blank"}
+- <i class="fab fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon){target="_blank"}
+- <i class="fab fa-skype"></i> bblodfon
 - <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en){target="_blank"}
 - <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate){target="_blank"}
-- <i class="fab fa-skype"></i> bblodfon
 - <i class="fas fa-phone"></i> +47 96808973
 - <i class="fas fa-phone"></i> +30 6936586236
 
