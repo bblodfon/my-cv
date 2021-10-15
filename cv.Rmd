@@ -104,7 +104,7 @@ Diploma grade: **8.4** [<a href="http://tiny.cc/john-ntua-diploma" target="_blan
 Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Digital Life Norway Industry Internship (3 months)
+### Internship in Molecular AI group (3 months)
 
 AstraZeneca
 
@@ -112,6 +112,7 @@ Gothenburg, Sweden
 
 2021
 
+- Funded by the Digital Life Norway Industry Program
 - Predicting bioactivity data using Bayesian Matrix Factorization
 - Target clustering and validation for phenotypic screens
 
