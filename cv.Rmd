@@ -110,7 +110,7 @@ AstraZeneca
 
 Gothenburg, Sweden
 
-April 2021 - January
+April 2021 - Jan 2021
 
 - Funded by the Digital Life Norway Industry Program
 - Predicting bioactivity data using Bayesian Matrix Factorization
