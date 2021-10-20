@@ -104,17 +104,28 @@ Diploma grade: **8.4** [<a href="http://tiny.cc/john-ntua-diploma" target="_blan
 Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
-### Internship in Molecular AI group (3 months)
+### Internship in Molecular AI group
 
 AstraZeneca
 
 Gothenburg, Sweden
 
-2021
+April 2021 - January
 
 - Funded by the Digital Life Norway Industry Program
 - Predicting bioactivity data using Bayesian Matrix Factorization
 - Target clustering and validation for phenotypic screens
+
+### Research stay in Molecular Interactions Team
+
+European Bioinformatics Institute
+
+Hinxton, England
+
+July 2018
+
+- Funded by the COST action "Gene Regulation Ensemble Effort for the Knowledge Commons" (GREEKC)
+- Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
 
 ### Linux Systems Engineer and Database Performance Tester
 
@@ -127,9 +138,6 @@ Athens, Greece
 - Administration/Monitoring of Linux servers & Databases
 - Database Performance tuning (optimizing queries, insertion speed)
 - Costumer support / Troubleshooting
-- Software testing
-
-\newpage 
 
 Selected Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
