@@ -28,7 +28,7 @@
   --decorator-border: 1px solid #ccc;
 
   --row-blocks-padding-top: 0.5rem;
-  --date-block-width: 0.7in;
+  --date-block-width: 0.8in;
 
   --main-blocks-title-icon-offset-left: calc(-17pt - 0.25 * var(--root-font-size));
 
