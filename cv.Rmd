@@ -87,7 +87,7 @@ Athens, Greece
 2015 - 2013
 
 **Thesis:** *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
-Diploma grade: **9.4** [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
+Diploma grade: **9.4/10** [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
 
 ### National Technical University of Athens (NTUA)
 
@@ -99,7 +99,7 @@ Athens, Greece
 
 **Thesis:** *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
 Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
-Diploma grade: **8.4** [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
+Diploma grade: **8.4/10** [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
 
 Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
