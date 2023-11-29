@@ -9,7 +9,7 @@ output:
 ---
 
 <!-- newest free version of fontawesome --->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
 
 Aside
 ================================================================================
@@ -46,8 +46,6 @@ Skills {#skills}
 
 <i class="fab fa-python"></i> `Python`
 
-<i class="fas fa-database"></i> `MariaDB`
-
 <i class="fas fa-code-branch"></i> `Git`
 
 
@@ -63,7 +61,7 @@ John Zobolas {#title}
 --------------------------------------------------------------------------------
 
 <p style="text-align:justify; background-color:#e1d8f0; border-radius: 5px; padding: 20px;">
-My main background is in computer science, with diverse expertise in computational modeling, software engineering and statistical/machine learning.
+My background is in computer science, with diverse expertise in computational modeling, software engineering, survival analysis and statistical/machine learning.
 Being <b>an engineer at heart</b>, my strongest quality is careful, analytical thinking. <br><br>
 A productive workday consists of writing <b>clean, test-driven software</b> and producing <b>explainable data visualizations</b> to drive my research. <br><br>
 I spend my free time playing the piano, juggling or reading books.</p>
@@ -127,7 +125,7 @@ Gothenburg, Sweden
 
 April 2021 - Jan 2021
 
-- **Project**: Predicting bioactivity data using Matrix Factorization methods for target-based clustering and validation
+- **Project**: Predicting bioactivity data using Matrix Factorization for target-based clustering and validation
 
 ### Research stay in Molecular Interactions Team
 
@@ -162,7 +160,7 @@ Nov 2022
 - Classification trees and model ensembles [[slides](http://tiny.cc/trees-ensembles)]
 - Support Vector Machines [[slides](http://tiny.cc/svm-intro)]
 - Neural Networks [[slides](http://tiny.cc/nn-intro)]
-- Benchmark various ML methods on the spam dataset [<a href="https://github.com/bblodfon/ml-course-2022/" target="_blank">GitBook link</a> <i class="fa-brands fa-github"></i></i>]
+- Benchmarking ML models using the spam dataset [<a href="https://github.com/bblodfon/ml-course-2022/" target="_blank">GitBook link</a> <i class="fa-brands fa-github"></i></i>]
 
 Selected Talks {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
@@ -186,6 +184,13 @@ Aug 2022
 Selected Publications {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
 
+### Fine tuning a logical model of cancer cells to predict drug synergies: combining manual curation and automated parameterization
+[Frontiers in Systems Biology](https://doi.org/10.3389/fsysb.2023.1252961)
+
+N/A
+
+2023
+
 ### Boolean function metrics can assist modelers to check and choose logical rules
 [Journal of Theoretical Biology](https://doi.org/10.1016/j.jtbi.2022.111025)
 
@@ -194,7 +199,7 @@ N/A
 2022
 
 ### *CausalBuilder*: bringing the MI2CAST causal interaction annotation standard to the curator
-[Database](https://doi.org/10.1093/database/baaa107){target="_blank"}
+[Database](https://doi.org/10.1093/database/baaa107)
 
 N/A
 
@@ -208,11 +213,13 @@ N/A
 2020
 
 ### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
-[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132){target="_blank"}
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)
 
 N/A
 
 2019
+
+\newpage
 
 Books {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
@@ -223,8 +230,6 @@ Books {data-icon=book data-concise=true}
 N/A
 
 2021
-
-\newpage
 
 Awards/Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
@@ -249,7 +254,7 @@ Recreational Activities {data-icon=walking}
 
 ### Playing piano <i class="fab fa-youtube"></i> <i class="fas fa-music"></i>
 
-I have a <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> in which I upload piano music
+<a href="https://www.youtube.com/c/JohnZobolas" target="_blank">My YouTube channel</a> with piano music
 
 N/A
 
@@ -257,7 +262,7 @@ N/A
 
 ### Juggling <i class="fab fa-instagram"></i>
 
-Check out my <a href="https://www.instagram.com/bblodfon312/" target="_blank">Instagram account</a> for videos with juggling tricks
+<a href="https://www.instagram.com/bblodfon312/" target="_blank">My Instagram</a> with juggling videos
 
 N/A
 
