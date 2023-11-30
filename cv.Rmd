@@ -167,7 +167,7 @@ Selected Talks {data-icon=chalkboard-user}
 
 ### AI pitch: An example ML survival workflow
 
-Presented at the 8th Annual NORBIS conference [[slides](http://tiny.cc/norbis-talk-2022)]
+8th Annual NORBIS conference [[slides](http://tiny.cc/norbis-talk-2022)]
 
 Rosendal, Norway
 
@@ -175,7 +175,7 @@ Oct 2022
 
 ### Reproducible Science
 
-Part of the Logical modeling course BI8040 (NTNU) [[slides](http://tiny.cc/reproducibility)]
+Logical modeling course BI8040 (NTNU) [[slides](http://tiny.cc/reproducibility)]
 
 Trondheim, Norway
 
@@ -252,17 +252,13 @@ N/A
 Recreational Activities {data-icon=walking}
 --------------------------------------------------------------------------------
 
-### Playing piano <i class="fab fa-youtube"></i> <i class="fas fa-music"></i>
-
-<a href="https://www.youtube.com/c/JohnZobolas" target="_blank">My YouTube channel</a> with piano music
+### <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">Piano</a> <i class="fab fa-youtube"></i> <i class="fas fa-music"></i>
 
 N/A
 
 N/A
 
-### Juggling <i class="fab fa-instagram"></i>
-
-<a href="https://www.instagram.com/bblodfon312/" target="_blank">My Instagram</a> with juggling videos
+### <a href="https://www.instagram.com/bblodfon312/" target="_blank">Juggling</a> <i class="fab fa-instagram"></i>
 
 N/A
 
