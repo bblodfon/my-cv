@@ -14,8 +14,6 @@ output:
 Aside
 ================================================================================
 
-<i class="fas fa-download"></i> Download this resume in [PDF](https://bblodfon.github.io/my-cv/cv.pdf).
-
 <img src></img>
 ![John](img/me2.jpg)
 
@@ -24,7 +22,6 @@ Contact Info {#contact}
 
 - <i class="fas fa-envelope"></i> bblodfon@gmail.com
 - <i class="fab fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon){target="_blank"}
-- <i class="fab fa-skype"></i> bblodfon
 - <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en){target="_blank"}
 - <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate){target="_blank"}
 - <i class="fas fa-phone"></i> +47 96808973
@@ -34,17 +31,17 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 <i class="fab fa-r-project"></i> `R`
 
-<i class="far fa-chart-bar"></i> `tidyverse`
-
 <i class="fas fa-microchip"></i> `mlr3`
 
-<i class="fab fa-js"></i> `Javascript`
-
-<i class="fab fa-html5"></i> `HTML/CSS`
+<i class="far fa-chart-bar"></i> `tidyverse`
 
 <i class="fab fa-java"></i> `Java`
 
 <i class="fab fa-python"></i> `Python`
+
+<i class="fab fa-js"></i> `Javascript`
+
+<i class="fab fa-html5"></i> `HTML/CSS`
 
 <i class="fas fa-code-branch"></i> `Git`
 
@@ -71,35 +68,35 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Norwegian University of Science and Technology (NTNU)
 
-PhD in Medical Technology / Computational Biology
+PhD in Computational Biology
 
-Trondheim, Norway
+Trondheim
 
 2021 - 2017
 
-**Thesis:** *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*  
+<u>**Thesis:**</u> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*  
 [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
 
 ### Athens University of Economics and Business (AUEB)
 
 MSc in Computer Science
 
-Athens, Greece
+Athens
 
 2015 - 2013
 
-**Thesis:** *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
+<u>**Thesis:**</u> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
 Diploma grade: **9.4/10** [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
 
 ### National Technical University of Athens (NTUA)
 
 M.Eng in Electrical and Computer Engineering
 
-Athens, Greece
+Athens
 
 2013 - 2007
 
-**Thesis:** *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
+<u>**Thesis:**</u> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
 Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
 Diploma grade: **8.4/10** [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
 
@@ -110,22 +107,22 @@ Professional Experience {data-icon=suitcase data-concise=true}
 
 Oslo University Hospital
 
-Oslo, Norway
+Oslo
 
-2024 - Jan 2022
+Jan 2024 - Jan 2022
 
-- **Project**: PANCAIM - pancreatic cancer AI for genomics and personalized medicine [[website](https://pancaim.eu/)]
+- <u>**Project**</u>: PANCAIM - pancreatic cancer AI for genomics and personalized medicine [[website](https://pancaim.eu/)]
 - Benchmarking survival ML models using multi-omics data
 
 ### Internship in Molecular AI group
 
 AstraZeneca
 
-Gothenburg, Sweden
+Gothenburg
 
 April 2021 - Jan 2021
 
-- **Project**: Predicting bioactivity data using Matrix Factorization for target-based clustering and validation
+- <u>**Project**</u>: Predicting bioactivity data using Matrix Factorization for target-based clustering and validation
 
 ### Research stay in Molecular Interactions Team
 
@@ -135,13 +132,13 @@ Hinxton, England
 
 July 2018
 
-- **Project**: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
+- <u>**Project**</u>: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
 
 ### Linux Systems Engineer and Database Performance Tester
 
 Commsquare
 
-Athens, Greece
+Athens
 
 2015 - 2013
 
@@ -150,18 +147,36 @@ Athens, Greece
 Teaching {data-icon=person-chalkboard}
 --------------------------------------------------------------------------------
 
-### Machine Learning course for Cancer Researchers
-I gave 4 lectures on the following topics:
+### Intro to ML for Survival Analysis with mlr3 
+Oslo Bioinformatics Workshop Week [<a href="https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2023/index.html#05" target="_blank">workshop link</a>]
 
-Oslo, Norway
+N/A
 
-Nov 2022
+2023
+
+### ML course for cancer researchers
+Institute for Cancer Research in Oslo
+
+N/A
+
+2022
 
 - Classification trees and model ensembles [[slides](http://tiny.cc/trees-ensembles)]
 - Support Vector Machines [[slides](http://tiny.cc/svm-intro)]
 - Neural Networks [[slides](http://tiny.cc/nn-intro)]
 - Benchmarking ML models using the spam dataset [<a href="https://github.com/bblodfon/ml-course-2022/" target="_blank">GitBook link</a> <i class="fa-brands fa-github"></i></i>]
 
+<!--
+Supervision {data-icon=people-carry-box}
+--------------------------------------------------------------------------------
+
+### MSc Thesis
+Hedda Fjell Scheel
+
+N/A
+
+2023
+-->
 Selected Talks {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
 
@@ -169,7 +184,7 @@ Selected Talks {data-icon=chalkboard-user}
 
 8th Annual NORBIS conference [[slides](http://tiny.cc/norbis-talk-2022)]
 
-Rosendal, Norway
+Rosendal
 
 Oct 2022
 
@@ -177,11 +192,11 @@ Oct 2022
 
 Logical modeling course BI8040 (NTNU) [[slides](http://tiny.cc/reproducibility)]
 
-Trondheim, Norway
+Trondheim
 
 Aug 2022
 
-Selected Publications {data-icon=book data-concise=true}
+Selected Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Fine tuning a logical model of cancer cells to predict drug synergies: combining manual curation and automated parameterization
@@ -221,8 +236,16 @@ N/A
 
 \newpage
 
-Books {data-icon=book data-concise=true}
+Online Books, Blogs {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
+
+### Survival modeling in mlr3 using Bayesian Additive Regression Trees (BART)
+
+<a href="https://mlr-org.com/gallery/technical/2023-10-25-bart-survival/" target="_blank">mlr3 gallery</a>
+
+N/A
+
+2023
 
 ### *8 Rules to write a PhD Thesis*: A PhD Thesis Rulebook
 <a href="https://bblodfon.github.io/phd-rules/index.html" target="_blank">Online GitBook</a> <i class="fab fa-github"></i>
@@ -249,7 +272,7 @@ N/A
 
 2007
 
-Recreational Activities {data-icon=walking}
+Recreational Activities {data-icon=person-through-window}
 --------------------------------------------------------------------------------
 
 ### <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">Piano</a> <i class="fab fa-youtube"></i> <i class="fas fa-music"></i>
@@ -264,7 +287,7 @@ N/A
 
 N/A
 
-### Fitness <i class="fas fa-dumbbell"></i>
+### Swimming <i class="fa-solid fa-person-swimming"></i>
 
 N/A
 
