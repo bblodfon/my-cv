@@ -166,17 +166,18 @@ N/A
 - Neural Networks [[slides](http://tiny.cc/nn-intro)]
 - Benchmarking ML models using the spam dataset [<a href="https://github.com/bblodfon/ml-course-2022/" target="_blank">GitBook link</a> <i class="fa-brands fa-github"></i></i>]
 
-<!--
 Supervision {data-icon=people-carry-box}
 --------------------------------------------------------------------------------
 
-### MSc Thesis
-Hedda Fjell Scheel
+### Hedda Fjell Scheel
+Veterinary research student (forskerlinjestudent)
 
 N/A
 
-2023
--->
+2024 - 2023
+
+- <u>**Project**</u>: Genetic Heterogeneity of Canine Mammary Tumors
+
 Selected Talks {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
 
