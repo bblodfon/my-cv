@@ -235,7 +235,7 @@ N/A
 
 2019
 
-\newpage
+<!-- \newpage -->
 
 Online Books, Blogs {data-icon=book data-concise=true}
 --------------------------------------------------------------------------------
