@@ -31,7 +31,7 @@ Skills {#skills}
 --------------------------------------------------------------------------------
 <i class="fab fa-r-project"></i> `R`
 
-<i class="fas fa-microchip"></i> `mlr3`
+<i class="fas fa-microchip"></i> `mlr3/mlr3proba`
 
 <i class="far fa-chart-bar"></i> `tidyverse`
 
@@ -59,9 +59,9 @@ John Zobolas {#title}
 
 <p style="text-align:justify; background-color:#e1d8f0; border-radius: 5px; padding: 20px;">
 My background is in computer science, with diverse expertise in computational modeling, software engineering, survival analysis and statistical/machine learning.
-Being <b>an engineer at heart</b>, my strongest quality is careful, analytical thinking. <br><br>
-A productive workday consists of writing <b>clean, test-driven software</b> and producing <b>explainable data visualizations</b> to drive my research. <br><br>
-I spend my free time playing the piano, juggling or reading books.</p>
+Being <b>an engineer at heart</b>, my strongest quality is careful, analytical thinking. 
+I love <b>open-source software</b> and I am the current maintainer of a <a href="http://github.com/mlr-org/mlr3proba">mlr3proba</a>.<br><br>
+Favorite things to do in my free time: play the piano, juggle, or just be with people.</p>
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -109,10 +109,12 @@ Oslo University Hospital
 
 Oslo
 
-Jan 2024 - Jan 2022
+Jan 2025 - Jan 2022
 
-- <u>**Project**</u>: PANCAIM - pancreatic cancer AI for genomics and personalized medicine [[website](https://pancaim.eu/)]
-- Benchmarking survival ML models using multi-omics data
+- <u>**Project**</u>: PANCAIM - **Pancreatic cancer AI** for genomics and personalized medicine [[website](https://pancaim.eu/)]
+- Authored two key project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a> <i class="fa-solid fa-earth-europe"></i>]
+- Benchmarked survival ML models using multi-omics data
+- Co-organized bi-weekly seminars at the Cancer Research Institute
 
 ### Internship in Molecular AI group
 
@@ -134,15 +136,13 @@ July 2018
 
 - <u>**Project**</u>: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
 
-### Linux Systems Engineer and Database Performance Tester
+### Linux Systems Engineer and MariaDB Performance Optimization
 
 Commsquare
 
 Athens
 
 2015 - 2013
-
-- Linux admin/support/database performance tuning
 
 Teaching {data-icon=person-chalkboard}
 --------------------------------------------------------------------------------
@@ -169,8 +169,46 @@ N/A
 Supervision {data-icon=people-carry-box}
 --------------------------------------------------------------------------------
 
+### Alberto López
+PhD student
+
+N/A
+
+2025 - 2023
+
+- <u>**Project**</u>: Incomplete Multi-View Clustering Algorithms
+
+### Laura Szekeres
+Master student
+
+N/A
+
+2024
+
+- <u>**Project**</u>: Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python [<a href="https://github.com/druglogics/pydruglogics" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
+
+### Tanguy Dumontier
+Apprentice Data Engineer
+
+N/A
+
+2024
+
+- <u>**Project**</u>: Optimizing Incomplete Multi-view Clustering: 
+From MATLAB to Python
+
+### Anjana Bhat
+Master student
+
+N/A
+
+2024
+
+- <u>**Project**</u>: Optimizing Clustering Metrics for Patient Stratification
+using Heuristic Approaches [<a href="https://github.com/AnjuBhat247/Optimizing-Clustering-Metrics-for-Patient-Stratification" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
+
 ### Hedda Fjell Scheel
-Veterinary research student (forskerlinjestudent)
+Veterinary Research Student (forskerlinjestudent)
 
 N/A
 
@@ -180,6 +218,22 @@ N/A
 
 Selected Talks {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
+
+### Examining properness in the external validation of survival models with squared and logarithmic losses
+
+NORA Annual conference 2024 [[slides](https://tiny.cc/scoring-rules-2024)]
+
+Kristiansand
+
+June 2024
+
+### Intro to Machine Learning for Survival Analysis with mlr3
+
+userR! 2024 conference tutorial [[GitHub link](https://survival-org.github.io/user2024-survival-mlr3/)]
+
+Salzburg
+
+July 2024
 
 ### AI pitch: An example ML survival workflow
 
@@ -199,6 +253,13 @@ Aug 2022
 
 Selected Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
+
+### Tutorial on survival modeling with applications to omics data
+[Bioinformatics](https://doi.org/10.1093/bioinformatics/btae132)
+
+N/A
+
+2024
 
 ### Fine tuning a logical model of cancer cells to predict drug synergies: combining manual curation and automated parameterization
 [Frontiers in Systems Biology](https://doi.org/10.3389/fsysb.2023.1252961)
@@ -257,6 +318,15 @@ N/A
 
 Awards/Scholarships {data-icon=award}
 --------------------------------------------------------------------------------
+### *Astri and Birger Torsteds* Grant to Fight Cancer
+
+Received funding (50,000 NOK) to purchase IT equipment for cancer research related
+to the PANCAIM EU project
+
+N/A
+
+2023
+
 ### Program *Study with Scholarship*, EqualSociety
 
 Scholarship for the MSc in Computer Science (AUEB)
@@ -282,13 +352,19 @@ N/A
 
 N/A
 
-### <a href="https://www.instagram.com/bblodfon312/" target="_blank">Juggling</a> <i class="fab fa-instagram"></i>
+### <a href="https://www.instagram.com/bblodfon312/" target="_blank">Juggling/Unicycling/Acro-yoga</a> <i class="fab fa-instagram"></i>
 
 N/A
 
 N/A
 
 ### Swimming <i class="fa-solid fa-person-swimming"></i>
+
+N/A
+
+N/A
+
+### Outdoor Activities <i class="fa-solid fa-person-hiking"></i>
 
 N/A
 
