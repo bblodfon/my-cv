@@ -112,7 +112,7 @@ Oslo
 Jan 2025 - Jan 2022
 
 - <u>**Project**</u>: PANCAIM - **Pancreatic cancer AI** for genomics and personalized medicine [[website](https://pancaim.eu/)]
-- Authored two key project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a> <i class="fa-solid fa-earth-europe"></i>]
+- Authored two key project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
 - Benchmarked survival ML models using multi-omics data
 - Co-organized bi-weekly seminars at the Cancer Research Institute
 
@@ -219,14 +219,6 @@ N/A
 Selected Talks {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
 
-### Examining properness in the external validation of survival models with squared and logarithmic losses
-
-NORA Annual conference 2024 [[slides](https://tiny.cc/scoring-rules-2024)]
-
-Kristiansand
-
-June 2024
-
 ### Intro to Machine Learning for Survival Analysis with mlr3
 
 userR! 2024 conference tutorial [[GitHub link](https://survival-org.github.io/user2024-survival-mlr3/)]
@@ -234,6 +226,14 @@ userR! 2024 conference tutorial [[GitHub link](https://survival-org.github.io/us
 Salzburg
 
 July 2024
+
+### Examining properness in the external validation of survival models with squared and logarithmic losses
+
+NORA Annual conference 2024 [[slides](https://tiny.cc/scoring-rules-2024)]
+
+Kristiansand
+
+June 2024
 
 ### AI pitch: An example ML survival workflow
 
@@ -342,6 +342,8 @@ Award for the highest grade in the Panhellenic examinations
 N/A
 
 2007
+
+\newpage
 
 Recreational Activities {data-icon=person-through-window}
 --------------------------------------------------------------------------------
