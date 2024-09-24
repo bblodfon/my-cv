@@ -23,7 +23,6 @@ Contact Info {#contact}
 - <i class="fas fa-envelope"></i> bblodfon@gmail.com
 - <i class="fab fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon){target="_blank"}
 - <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en){target="_blank"}
-- <i class="fab fa-researchgate"></i> [ResearchGate](http://tiny.cc/john-Re-gate){target="_blank"}
 - <i class="fas fa-phone"></i> +47 96808973
 - <i class="fas fa-phone"></i> +30 6936586236
 
@@ -60,8 +59,8 @@ John Zobolas {#title}
 <p style="text-align:justify; background-color:#e1d8f0; border-radius: 5px; padding: 20px;">
 My background is in computer science, with diverse expertise in computational modeling, software engineering, survival analysis and statistical/machine learning.
 Being <b>an engineer at heart</b>, my strongest quality is careful, analytical thinking. 
-I love <b>open-source software</b> and I am the current maintainer of a <a href="http://github.com/mlr-org/mlr3proba">mlr3proba</a>.<br><br>
-Favorite things to do in my free time: play the piano, juggle, or just be with people.</p>
+I love <b>open-source software</b> and I am the current maintainer of <a href="http://github.com/mlr-org/mlr3proba">mlr3proba</a>.
+</p>
 
 Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -311,7 +310,7 @@ to the PANCAIM EU project
 
 N/A
 
-2023
+2024
 
 ### Program *Study with Scholarship*, EqualSociety
 
