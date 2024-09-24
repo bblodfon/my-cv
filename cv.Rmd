@@ -275,20 +275,6 @@ N/A
 
 2022
 
-### *CausalBuilder*: bringing the MI2CAST causal interaction annotation standard to the curator
-[Database](https://doi.org/10.1093/database/baaa107)
-
-N/A
-
-2021
-
-### UniBioDicts: Unified access to biological dictionaries
-[Bioinformatics](https://doi.org/10.1093/bioinformatics/btaa1065)
-
-N/A
-
-2020
-
 ### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
 [Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)
 
