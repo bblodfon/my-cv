@@ -419,3 +419,7 @@ h1, h2{
     width: unset;
   }
 }
+
+b, strong {
+  font-weight: bold !important;
+}
