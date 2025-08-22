@@ -73,7 +73,7 @@ Trondheim
 
 2021 - 2017
 
-<u>**Thesis:**</u> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*  
+<u><b>Thesis:</b></u> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*  
 [<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
 
 ### Athens University of Economics and Business (AUEB)
@@ -84,8 +84,8 @@ Athens
 
 2015 - 2013
 
-<u>**Thesis:**</u> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
-Diploma grade: **9.4/10** [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
+<u><b>Thesis:</b></u> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
+Diploma grade: <b>9.4/10</b> [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
 
 ### National Technical University of Athens (NTUA)
 
@@ -95,9 +95,9 @@ Athens
 
 2013 - 2007
 
-<u>**Thesis:**</u> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
+<u><b>Thesis:</b></u> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
 Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
-Diploma grade: **8.4/10** [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
+Diploma grade: <b>8.4/10</b> [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
 
 Professional Experience {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
@@ -110,10 +110,10 @@ Oslo
 
 Sept 2025 - Jan 2022
 
-- <u>**Project**</u>: PANCAIM - **Pancreatic cancer AI** for genomics and personalized medicine [[website](https://pancaim.eu/)]
-- Authored two **AI-focused EU project deliverables** [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
+- <u><b>Project</b></u>: PANCAIM - <b>Pancreatic cancer AI</b> for genomics and personalized medicine [[website](https://pancaim.eu/)]
+- Authored two <b>AI-focused EU project deliverables</b> [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
 - Co-organized bi-weekly seminars at the Cancer Research Institute
-- 'Visiting Fellow' at the **Center for Advanced Studies** (Winter Semester 2024/25), hosted by Dr. Andreas Bender, LMU Munich [[website](https://www.cas.lmu.de/en/)]
+- 'Visiting Fellow' at the <b>Center for Advanced Studies</b> (Winter Semester 2024/25), hosted by Dr. Andreas Bender, LMU Munich [[website](https://www.cas.lmu.de/en/)]
 
 ### Internship in Molecular AI group
 
@@ -123,7 +123,7 @@ Gothenburg
 
 April 2021 - Jan 2021
 
-- <u>**Project**</u>: Predicting bioactivity data using Matrix Factorization for target-based clustering and validation
+- <u><b>Project</b></u>: Predicting bioactivity data using Matrix Factorization for target-based clustering and validation
 
 ### Research stay in Molecular Interactions Team
 
@@ -133,7 +133,7 @@ Hinxton, England
 
 July 2018
 
-- <u>**Project**</u>: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
+- <u><b>Project</b></u>: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
 
 ### Linux Systems Engineer and MariaDB Performance Optimization
 
@@ -175,7 +175,7 @@ N/A
 
 2025 - 2023
 
-- <u>**Project**</u>: Incomplete Multi-View Clustering Algorithms
+- <u><b>Project</b></u>: Incomplete Multi-View Clustering Algorithms
 
 ### Philip Studener & Markus Goeswein
 Student Assistants
@@ -184,7 +184,7 @@ N/A
 
 2025 - 2024
 
-- <u>**Project**</u>: Implementation of reduction techniques for Survival Analysis in *mlr3proba* [<a href="https://github.com/mlr-org/mlr3proba" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
+- <u><b>Project</b></u>: Implementation of reduction techniques for Survival Analysis in *mlr3proba* [<a href="https://github.com/mlr-org/mlr3proba" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
 
 ### Laura Szekeres
 Master student
@@ -193,7 +193,7 @@ N/A
 
 2024
 
-- <u>**Project**</u>: Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python [<a href="https://github.com/druglogics/pydruglogics" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
+- <u><b>Project</b></u>: Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python [<a href="https://github.com/druglogics/pydruglogics" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
 
 ### Tanguy Dumontier
 Apprentice Data Engineer
@@ -202,7 +202,7 @@ N/A
 
 2024
 
-- <u>**Project**</u>: Optimizing Incomplete Multi-view Clustering: 
+- <u><b>Project</b></u>: Optimizing Incomplete Multi-view Clustering: 
 From MATLAB to Python
 
 ### Anjana Bhat
@@ -212,7 +212,7 @@ N/A
 
 2024
 
-- <u>**Project**</u>: Optimizing Clustering Metrics for Patient Stratification
+- <u><b>Project</b></u>: Optimizing Clustering Metrics for Patient Stratification
 using Heuristic Approaches [<a href="https://github.com/AnjuBhat247/Optimizing-Clustering-Metrics-for-Patient-Stratification" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
 
 ### Hedda Fjell Scheel
@@ -222,7 +222,7 @@ N/A
 
 2024 - 2023
 
-- <u>**Project**</u>: Genetic Heterogeneity of Canine Mammary Tumors
+- <u><b>Project</b></u>: Genetic Heterogeneity of Canine Mammary Tumors
 
 Selected Talks {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
