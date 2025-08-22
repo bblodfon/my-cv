@@ -108,12 +108,12 @@ Oslo University Hospital
 
 Oslo
 
-Jan 2025 - Jan 2022
+Sept 2025 - Jan 2022
 
 - <u>**Project**</u>: PANCAIM - **Pancreatic cancer AI** for genomics and personalized medicine [[website](https://pancaim.eu/)]
-- Authored two key project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
-- Benchmarked survival ML models using multi-omics data
+- Authored two **AI-focused EU project deliverables** [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
 - Co-organized bi-weekly seminars at the Cancer Research Institute
+- 'Visiting Fellow' at the **Center for Advanced Studies** (Winter Semester 2024/25), hosted by Dr. Andreas Bender, LMU Munich [[website](https://www.cas.lmu.de/en/)]
 
 ### Internship in Molecular AI group
 
@@ -176,6 +176,15 @@ N/A
 2025 - 2023
 
 - <u>**Project**</u>: Incomplete Multi-View Clustering Algorithms
+
+### Philip Studener & Markus Goeswein
+Student Assistants
+
+N/A
+
+2025 - 2024
+
+- <u>**Project**</u>: Implementation of reduction techniques for Survival Analysis in *mlr3proba* [<a href="https://github.com/mlr-org/mlr3proba" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
 
 ### Laura Szekeres
 Master student
