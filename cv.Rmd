@@ -255,7 +255,7 @@ July 2024
 
 ### Examining properness in the external validation of survival models with squared and logarithmic losses
 
-NORA Annual conference 2024 [[slides](https://tiny.cc/scoring-rules-2024)]
+NORA Annual conference 2024 [[slides](http://tiny.cc/scoring-rules-2024)]
 
 Kristiansand
 
@@ -263,7 +263,7 @@ June 2024
 
 ### AI pitch: An example ML survival workflow
 
-8th Annual NORBIS conference [[slides](http://tiny.cc/norbis-talk-2022)]
+8th Annual NORBIS conference [[slides](http://tiny.cc/norbis-2022)]
 
 Rosendal
 
@@ -271,7 +271,7 @@ Oct 2022
 
 ### Reproducible Science
 
-Logical modeling course BI8040 (NTNU) [[slides](http://tiny.cc/reproducibility)]
+Logical modeling course BI8040 (NTNU) [[slides](https://tiny.cc/reproducibility)]
 
 Trondheim
 
@@ -281,14 +281,14 @@ Selected Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
 
 ### mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration
-[[Journal of Open Source Software](doi.org/10.21105/joss.08331)]
+[[Journal of Open Source Software](https://doi.org/10.21105/joss.08331)]
 
 N/A
 
 2025
 
 ### PyDrugLogics: A Python Package for Predicting Drug Synergies Using Boolean Models
-[[Journal of Open Source Software](doi.org/10.21105/joss.08038)]
+[[Journal of Open Source Software](https://doi.org/10.21105/joss.08038)]
 
 N/A
 
