@@ -56,55 +56,15 @@ John Zobolas {#title}
 --------------------------------------------------------------------------------
 
 <p style="text-align:justify; background-color:#e1d8f0; border-radius: 5px; padding: 20px;">
-My background is in computer science, with diverse expertise in computational modeling, software engineering, survival analysis and statistical/machine learning.
-Being <b>an engineer at heart</b>, my strongest quality is careful, analytical thinking.
-I am deeply committed to <b>open-source software</b> and actively contribute to the R ecosystem as a core member of <a href="https://mlr-org.com/">mlr3</a>.
-I am currently the maintainer of <a href="http://github.com/mlr-org/mlr3proba">mlr3proba</a> and additional CRAN packages, including 
-<a href="https://cran.r-project.org/web/packages/CoxBoost/index.html">CoxBoost</a> and 
-<a href="https://cran.r-project.org/web/packages/fastVoteR/index.html">fastVoteR</a>.
+<b>Researcher in Clinical AI and Computational Statistics</b> with a background in computer science, software engineering and computational biology.
+My research focuses on machine learning for cancer research, particularly survival analysis and high-dimensional biomarker discovery.
+I am a core contributor to the open-source <a href="https://mlr-org.com/">mlr3</a> R ecosystem for machine learning and maintainer of <a href="http://github.com/mlr-org/mlr3proba">mlr3proba</a> and several CRAN packages, including <a href="https://cran.r-project.org/web/packages/CoxBoost/index.html">CoxBoost</a> and <a href="https://cran.r-project.org/web/packages/fastVoteR/index.html">fastVoteR</a>.
 </p>
 
-Education {data-icon=graduation-cap data-concise=true}
+Research Experience {data-icon=computer data-concise=true}
 --------------------------------------------------------------------------------
 
-### Norwegian University of Science and Technology (NTNU)
-
-PhD in Computational Biology
-
-Trondheim
-
-2021 - 2017
-
-<u><b>Thesis:</b></u> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*  
-[<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
-
-### Athens University of Economics and Business (AUEB)
-
-MSc in Computer Science
-
-Athens
-
-2015 - 2013
-
-<u><b>Thesis:</b></u> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
-Diploma grade: <b>9.4/10</b> [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
-
-### National Technical University of Athens (NTUA)
-
-M.Eng in Electrical and Computer Engineering
-
-Athens
-
-2013 - 2007
-
-<u><b>Thesis:</b></u> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell 
-Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]  
-Diploma grade: <b>8.4/10</b> [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
-
-Research {data-icon=computer data-concise=true}
---------------------------------------------------------------------------------
-
-### Postdoctoral Researcher in Computational Statistics and Machine Learning
+### Researcher in Computational Statistics and Machine Learning
 
 Oslo University Hospital
 
@@ -112,9 +72,9 @@ Oslo
 
 End of 2026 - Oct 2025
 
-<u><b>Keywords</u></b>: ML in survival analysis, high-dimensional feature selection, adverse event modeling.
+<u><b>Keywords</u></b>: ML for survival analysis, high-dimensional feature selection, adverse event modeling.
 
-### Postdoc in Clinical AI for Pancreatic Cancer
+### Postdoctoral Researcher in Clinical AI for Pancreatic Cancer
 
 Oslo University Hospital
 
@@ -125,7 +85,7 @@ Sept 2025 - Jan 2022
 - <u><b>Project</b></u>: PANCAIM (<b>PAN</B>creatic <b>C</b>ancer <b>AI</b> for genomics and personalized <b>M</b>edicine) [[website](https://pancaim.eu/)]
 - Authored two <b>AI-focused EU project deliverables</b> [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
 - Co-organized bi-weekly seminars at the Cancer Research Institute
-- 'Visiting Fellow' at the <b>Center for Advanced Studies</b> (Winter Semester 2024/25), hosted by Dr. Andreas Bender, LMU Munich [[website](https://www.cas.lmu.de/en/)]
+- 'Visiting Fellow' at the <b>Center for Advanced Studies</b> (Winter Semester 2024/25), hosted by Dr. Andreas Bender, LMU Munich
 
 ### Internship in Molecular AI group
 
@@ -147,6 +107,44 @@ July 2018
 
 - <u><b>Project</b></u>: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
 
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Norwegian University of Science and Technology (NTNU)
+
+PhD in Computational Biology
+
+Trondheim
+
+2021 - 2017
+
+<u><b>Thesis:</b></u> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*
+[<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
+
+### Athens University of Economics and Business (AUEB)
+
+MSc in Computer Science
+
+Athens
+
+2015 - 2013
+
+<u><b>Thesis:</b></u> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
+Diploma grade: <b>9.4/10</b> [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
+
+### National Technical University of Athens (NTUA)
+
+M.Eng in Electrical and Computer Engineering
+
+Athens
+
+2013 - 2007
+
+<u><b>Thesis:</b></u> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell
+Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
+Diploma grade: <b>8.4/10</b> [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
+
+
 Industry {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
 
@@ -164,7 +162,7 @@ Athens
 Teaching {data-icon=person-chalkboard}
 --------------------------------------------------------------------------------
 
-### Intro to ML for Survival Analysis with mlr3 
+### Intro to ML for Survival Analysis with mlr3
 Oslo Bioinformatics Workshop Week [<a href="https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2023/index.html#05" target="_blank">workshop link</a>]
 
 N/A
@@ -211,7 +209,7 @@ N/A
 
 2025 - 2024
 
-- <u><b>Project</b></u>: Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python [<a href="https://github.com/druglogics/pydruglogics" target="_blank">PyDrugLogics</a> <i class="fab fa-github"></i>]
+- <u><b>Project</b></u>: Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python [<a href="https://github.com/druglogics/pydruglogics" target="_blank">PyDrugLogics</a> <i class="fab fa-github"></i>] [[JOSS publication](https://doi.org/10.21105/joss.08038)]
 
 ### Tanguy Dumontier
 Apprentice Data Engineer
@@ -220,7 +218,7 @@ N/A
 
 2024
 
-- <u><b>Project</b></u>: Optimizing Incomplete Multi-view Clustering: 
+- <u><b>Project</b></u>: Optimizing Incomplete Multi-view Clustering:
 From MATLAB to Python [<a href="https://github.com/ocbe-uio/imml" target="_blank">iMML</a> <i class="fab fa-github"></i>]
 
 ### Anjana Bhat
@@ -280,6 +278,20 @@ Aug 2022
 Selected Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
 
+### Prognostic biomarker discovery in pancreatic cancer through hybrid ensemble feature selection and multi-omics data
+[[BioData Mining]](https://doi.org/10.1186/s13040-026-00546-0)
+
+N/A
+
+2026
+
+### A Large-Scale Neutral Comparison Study of Survival Models on Low-Dimensional Data
+[[Bioinformatics](https://doi.org/10.1093/bioinformatics/btag186)]
+
+N/A
+
+2026
+
 ### mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration
 [[Journal of Open Source Software](https://doi.org/10.21105/joss.08331)]
 
@@ -287,8 +299,7 @@ N/A
 
 2025
 
-### PyDrugLogics: A Python Package for Predicting Drug Synergies Using Boolean Models
-[[Journal of Open Source Software](https://doi.org/10.21105/joss.08038)]
+###
 
 N/A
 
@@ -395,7 +406,7 @@ N/A
 
 N/A
 
-- <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> <i class="fab fa-youtube"></i> 
+- <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> <i class="fab fa-youtube"></i>
 - Concerts for cancer patients, Dec 2025 ([Solo](https://kreftforeningen.no/vardesenteret/tilbud/pianokonsert-med-john/) & [4-hands](https://kreftforeningen.no/vardesenteret/tilbud/pianokonsert/) with Liliane Christ)
 
 ### Juggling/Unicycle/Acroyoga
