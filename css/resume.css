@@ -291,6 +291,17 @@ h1, h2{
   padding: 0.05in 0 0.07in 0;
 }
 
+/* Compact publication entries */
+#publications .details h3 {
+  font-size: 0.74rem;
+  line-height: 1.15;
+  font-weight: 400;
+}
+
+#publications .details h3 strong {
+  font-style: italic;
+}
+
 .details .place{
   float: left;
   font-size: 0.75rem;
