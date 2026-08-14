@@ -22,27 +22,16 @@ Contact Info {#contact}
 
 - <i class="fas fa-envelope"></i> bblodfon [at] gmail [dot] com
 - <i class="fab fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon){target="_blank"}
-- <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6LDggVUAAAAJ&hl=en){target="_blank"}
 - <i class="fas fa-phone"></i> +47 96808973
 
 Skills {#skills}
 --------------------------------------------------------------------------------
-<i class="fab fa-r-project"></i> `R`
+<i class="fab fa-r-project"></i>
 
-<i class="fas fa-microchip"></i> `mlr3`
+Books {#book}
+--------------------------------------------------------------------------------
 
-<i class="far fa-chart-bar"></i> `tidyverse`
-
-<i class="fab fa-java"></i> `Java`
-
-<i class="fab fa-python"></i> `Python`
-
-<i class="fab fa-js"></i> `Javascript`
-
-<i class="fab fa-html5"></i> `HTML/CSS`
-
-<i class="fas fa-code-branch"></i> `Git`
-
+*8 Rules to write a PhD Thesis* [<a href="https://bblodfon.github.io/phd-rules/index.html" target="_blank">Online GitBook</a> <i class="fab fa-github"></i>]
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
@@ -57,24 +46,27 @@ John Zobolas {#title}
 
 <p style="text-align:justify; background-color:#e1d8f0; border-radius: 5px; padding: 20px;">
 <b>Researcher in Clinical AI and Computational Statistics</b> with a background in computer science, software engineering and computational biology.
-My research focuses on machine learning for cancer research, particularly survival analysis and high-dimensional biomarker discovery.
+My research focuses on machine learning for <b>cancer research</b>, particularly <b>survival analysis</b> and high-dimensional <b>biomarker discovery</b>.
 I am a core contributor to the open-source <a href="https://mlr-org.com/">mlr3</a> R ecosystem for machine learning and maintainer of <a href="http://github.com/mlr-org/mlr3proba">mlr3proba</a> and several CRAN packages, including <a href="https://cran.r-project.org/web/packages/CoxBoost/index.html">CoxBoost</a> and <a href="https://cran.r-project.org/web/packages/fastVoteR/index.html">fastVoteR</a>.
 </p>
 
 Research Experience {data-icon=computer data-concise=true}
 --------------------------------------------------------------------------------
 
-### Researcher in Computational Statistics and Machine Learning
+### Researcher in Clinical AI
 
 Oslo University Hospital
 
 Oslo
 
-End of 2026 - Oct 2025
+present - Oct 2025
 
-<u><b>Keywords</u></b>: ML for survival analysis, high-dimensional feature selection, adverse event modeling.
+- Machine learning for survival analysis and cancer research
+- High-dimensional feature selection
+- Adverse-event modeling
+- Development of open-source statistical/ML software
 
-### Postdoctoral Researcher in Clinical AI for Pancreatic Cancer
+### Postdoc Researcher in Clinical AI for Pancreatic Cancer
 
 Oslo University Hospital
 
@@ -82,10 +74,10 @@ Oslo
 
 Sept 2025 - Jan 2022
 
-- <u><b>Project</b></u>: PANCAIM (<b>PAN</B>creatic <b>C</b>ancer <b>AI</b> for genomics and personalized <b>M</b>edicine) [[website](https://pancaim.eu/)]
-- Authored two <b>AI-focused EU project deliverables</b> [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
-- Co-organized bi-weekly seminars at the Cancer Research Institute
-- 'Visiting Fellow' at the <b>Center for Advanced Studies</b> (Winter Semester 2024/25), hosted by Dr. Andreas Bender, LMU Munich
+- PANCAIM: <b>PAN</B>creatic <b>C</b>ancer <b>AI</b> for genomics and personalized <b>M</b>edicine [[website](https://pancaim.eu/)]
+- Authored two EU project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
+- Co-organized seminars at the Cancer Research Institute
+- Visiting Fellow, Center for Advanced Studies, LMU Munich (Winter 2024/25)
 
 ### Internship in Molecular AI group
 
@@ -95,7 +87,7 @@ Gothenburg
 
 April 2021 - Jan 2021
 
-- <u><b>Project</b></u>: Predicting bioactivity data using Matrix Factorization for target-based clustering and validation
+- *Predicting bioactivity data using Matrix Factorization for target-based clustering and validation*
 
 ### Research stay in Molecular Interactions Team
 
@@ -105,45 +97,7 @@ Hinxton, England
 
 July 2018
 
-- <u><b>Project</b></u>: Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions
-
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
-
-### Norwegian University of Science and Technology (NTNU)
-
-PhD in Computational Biology
-
-Trondheim
-
-2021 - 2017
-
-<u><b>Thesis:</b></u> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*
-[<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">GitBook link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
-
-### Athens University of Economics and Business (AUEB)
-
-MSc in Computer Science
-
-Athens
-
-2015 - 2013
-
-<u><b>Thesis:</b></u> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
-Diploma grade: <b>9.4/10</b> [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-aueb-transcript" target="_blank">Transcript</a>]
-
-### National Technical University of Athens (NTUA)
-
-M.Eng in Electrical and Computer Engineering
-
-Athens
-
-2013 - 2007
-
-<u><b>Thesis:</b></u> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell
-Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
-Diploma grade: <b>8.4/10</b> [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>] [<a href="http://tiny.cc/john-ntua-transcript" target="_blank">Transcript</a>]
-
+- *Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions*
 
 Industry {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
@@ -156,130 +110,48 @@ Athens
 
 2015 - 2013
 
-- MariaDB Performance Optimization
-- Software Testing & Server Maintenance
+\newpage
 
-Teaching {data-icon=person-chalkboard}
+Education {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
-### Intro to ML for Survival Analysis with mlr3
-Oslo Bioinformatics Workshop Week [<a href="https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2023/index.html#05" target="_blank">workshop link</a>]
+### PhD in Computational Biology
 
-N/A
-
-2023
-
-### ML course for cancer researchers
-Institute for Cancer Research in Oslo
-
-N/A
-
-2022
-
-- Classification trees and model ensembles [[slides](http://tiny.cc/trees-ensembles)]
-- Support Vector Machines [[slides](http://tiny.cc/svm-intro)]
-- Neural Networks [[slides](http://tiny.cc/nn-intro)]
-- Benchmarking ML models using the spam dataset [<a href="https://github.com/bblodfon/ml-course-2022/" target="_blank">GitBook link</a> <i class="fa-brands fa-github"></i></i>]
-
-Supervision {data-icon=people-carry-box}
---------------------------------------------------------------------------------
-
-### Alberto López
-PhD student
-
-N/A
-
-2026 - 2023
-
-- <u><b>Project</b></u>: Incomplete Multi-View Clustering Algorithms
-
-### Philip Studener & Markus Goeswein
-Student Assistants (LMU)
-
-N/A
-
-2025 - 2024
-
-- <u><b>Project</b></u>: Implementation of reduction techniques for Survival Analysis in *mlr3proba* [<a href="https://github.com/mlr-org/mlr3proba" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
-
-### Laura Szekeres
-Master student
-
-N/A
-
-2025 - 2024
-
-- <u><b>Project</b></u>: Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python [<a href="https://github.com/druglogics/pydruglogics" target="_blank">PyDrugLogics</a> <i class="fab fa-github"></i>] [[JOSS publication](https://doi.org/10.21105/joss.08038)]
-
-### Tanguy Dumontier
-Apprentice Data Engineer
-
-N/A
-
-2024
-
-- <u><b>Project</b></u>: Optimizing Incomplete Multi-view Clustering:
-From MATLAB to Python [<a href="https://github.com/ocbe-uio/imml" target="_blank">iMML</a> <i class="fab fa-github"></i>]
-
-### Anjana Bhat
-Master student
-
-N/A
-
-2024
-
-- <u><b>Project</b></u>: Optimizing Clustering Metrics for Patient Stratification
-using Heuristic Approaches [<a href="https://github.com/AnjuBhat247/Optimizing-Clustering-Metrics-for-Patient-Stratification" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
-
-### Hedda Fjell Scheel
-Veterinary Research Student (Forskerlinjestudent)
-
-N/A
-
-2024 - 2023
-
-- <u><b>Project</b></u>: Genetic Heterogeneity of Canine Mammary Tumors [<a href="https://github.com/Heddafs/CMT_survival" target="_blank">GitHub link</a> <i class="fab fa-github"></i>]
-
-Selected Talks {data-icon=chalkboard-user}
---------------------------------------------------------------------------------
-
-### Intro to Machine Learning for Survival Analysis with mlr3
-
-userR! 2024 conference tutorial [[GitHub link](https://survival-org.github.io/user2024-survival-mlr3/)]
-
-Salzburg
-
-July 2024
-
-### Examining properness in the external validation of survival models with squared and logarithmic losses
-
-NORA Annual conference 2024 [[slides](http://tiny.cc/scoring-rules-2024)]
-
-Kristiansand
-
-June 2024
-
-### AI pitch: An example ML survival workflow
-
-8th Annual NORBIS conference [[slides](http://tiny.cc/norbis-2022)]
-
-Rosendal
-
-Oct 2022
-
-### Reproducible Science
-
-Logical modeling course BI8040 (NTNU) [[slides](https://tiny.cc/reproducibility)]
+Norwegian University of Science and Technology (NTNU)
 
 Trondheim
 
-Aug 2022
+2021 - 2017
+
+<i class="fa-regular fa-file-lines"></i> *Software implementations allowing new approaches toward data analysis, modeling and curation of biological knowledge for Systems Medicine*
+[<a href="https://bblodfon.github.io/my-phd-thesis/" target="_blank">link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-phd-defence" target="_blank">Defence video</a> <i class="fab fa-youtube"></i>] [<a href="http://tiny.cc/john-phd-results" target="_blank">Results</a>] [<a href="http://tiny.cc/john-phd-diploma" target="_blank">Diploma</a>]
+
+### MSc in Computer Science
+
+Athens University of Economics and Business (AUEB)
+
+Athens
+
+2015 - 2013
+
+<i class="fa-regular fa-file-lines"></i> *SkyLighting Web Application with three.js* [<a href="https://github.com/bblodfon/skylighting-Web-app" target="_blank">link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-aueb-diploma" target="_blank">Diploma</a>]
+
+### Diploma in Electrical and Computer Engineering
+
+National Technical University of Athens (NTUA)
+
+Athens
+
+2013 - 2007
+
+<i class="fa-regular fa-file-lines"></i> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell
+Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>]
 
 Selected Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Prognostic biomarker discovery in pancreatic cancer through hybrid ensemble feature selection and multi-omics data
-[[BioData Mining]](https://doi.org/10.1186/s13040-026-00546-0)
+[[BioData Mining](https://doi.org/10.1186/s13040-026-00546-0)]
 
 N/A
 
@@ -299,25 +171,12 @@ N/A
 
 2025
 
-###
-
-N/A
-
-2025
-
 ### Tutorial on survival modeling with applications to omics data
 [[Bioinformatics](https://doi.org/10.1093/bioinformatics/btae132)]
 
 N/A
 
 2024
-
-### Fine tuning a logical model of cancer cells to predict drug synergies: combining manual curation and automated parameterization
-[[Frontiers in Systems Biology](https://doi.org/10.3389/fsysb.2023.1252961)]
-
-N/A
-
-2023
 
 ### Boolean function metrics can assist modelers to check and choose logical rules
 [[Journal of Theoretical Biology](https://doi.org/10.1016/j.jtbi.2022.111025)]
@@ -326,99 +185,141 @@ N/A
 
 2022
 
-### CausalTAB: the PSI-MITAB 2.8 updated format for signalling data representation and dissemination
-[[Bioinformatics](https://doi.org/10.1093/bioinformatics/btz132)]
-
-N/A
-
-2019
-
-<!-- \newpage -->
-
-Online Books, Blogs {data-icon=book data-concise=true}
---------------------------------------------------------------------------------
-
-### Wrapper-based Ensemble Feature Selection
-
-[<a href="https://mlr-org.com/gallery/technical/2025-01-12-efs/" target="_blank">mlr3 gallery post</a>]
-
-N/A
-
-2025
-
-### Survival modeling in mlr3 using Bayesian Additive Regression Trees (BART)
-
-[<a href="https://mlr-org.com/gallery/technical/2023-10-25-bart-survival/" target="_blank">mlr3 gallery post</a>]
-
-N/A
-
-2023
-
-### *8 Rules to write a PhD Thesis*: A PhD Thesis Rulebook
-[<a href="https://bblodfon.github.io/phd-rules/index.html" target="_blank">Online GitBook</a> <i class="fab fa-github"></i>]
-
-N/A
-
-2021
-
-Awards/Scholarships {data-icon=award}
+Grants & Funding {data-icon=award}
 --------------------------------------------------------------------------------
 ### Olav Raagholt and Gerd Meidel Raagholt Grant
 
-Received funding (30,000 NOK) to support the project "Advancing Machine Learning Methods for Survival Analysis in Cancer Research"
+<i class="fa-solid fa-circle-arrow-right"></i> 30,000 NOK, *Advancing Machine Learning Methods for Survival Analysis in Cancer Research*.
 
 N/A
 
 2025
 
-
 ### Astri and Birger Torsteds Grant to Fight Cancer
 
-Received funding (50,000 NOK) to purchase IT equipment for cancer research related
-to the PANCAIM EU project
+<i class="fa-solid fa-circle-arrow-right"></i> 50,000 NOK, IT equipment for cancer research within PANCAIM.
 
 N/A
 
 2024
 
-### Program "Study with Scholarship", EqualSociety
+\newpage
 
-Scholarship for the MSc in Computer Science (AUEB)
+Supervision {data-icon=people-carry-box}
+--------------------------------------------------------------------------------
 
-N/A
-
-2013
-
-### Program "Great Moment for Education", Eurobank
-
-Award for the highest grade in the Panhellenic Exams
+### Alberto López
+PhD student
 
 N/A
 
-2007
+2026 - 2023
+
+<i class="fa-solid fa-diagram-project"></i> *Incomplete Multi-View Clustering Algorithms*
+
+### Philip Studener & Markus Goeswein
+Student Assistants (LMU)
+
+N/A
+
+2025 - 2024
+
+<i class="fa-solid fa-diagram-project"></i> *Implementation of Reduction Techniques for Survival Analysis in mlr3proba* [[Lifetime Data Analysis](https://doi.org/10.1007/s10985-026-09714-0) <i class="fa-regular fa-book"></i>]
+
+### Laura Szekeres
+Master student
+
+N/A
+
+2025 - 2024
+
+<i class="fa-solid fa-diagram-project"></i> *Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python* [<a href="https://github.com/druglogics/pydruglogics" target="_blank">PyDrugLogics</a> <i class="fab fa-github"></i>] [[JOSS](https://doi.org/10.21105/joss.08038) <i class="fa-solid fa-book"></i>]
+
+### Tanguy Dumontier
+Apprentice Data Engineer
+
+N/A
+
+2024
+
+<i class="fa-solid fa-diagram-project"></i> *Optimizing Incomplete Multi-View Clustering: From MATLAB to Python* [<a href="https://github.com/ocbe-uio/imml" target="_blank">iMML</a> <i class="fab fa-github"></i>]
+
+### Hedda Fjell Scheel
+Veterinary Research Student (Forskerlinjestudent)
+
+N/A
+
+2024 - 2023
+
+<i class="fa-solid fa-diagram-project"></i> *Genetic Heterogeneity of Canine Mammary Tumors* [[Veterinary Oncology](https://doi.org/10.1186/s44356-025-00030-7) <i class="fa-solid fa-book"></i>]
+
+Teaching {data-icon=person-chalkboard}
+--------------------------------------------------------------------------------
+
+### ML course for cancer researchers
+Institute for Cancer Research in Oslo [[Trees&Ensembles](http://tiny.cc/trees-ensembles), [SVMs](http://tiny.cc/svm-intro), [NNs](http://tiny.cc/nn-intro) <i class="fa-brands fa-slideshare"></i>, [Benchmarking](https://github.com/bblodfon/ml-course-2022/) <i class="fa-brands fa-github"></i></i>]
+
+N/A
+
+2022
+
+Invited Talks, Tutorials & Conferences {data-icon=chalkboard-user}
+--------------------------------------------------------------------------------
+
+### Intro to Machine Learning for Survival Analysis with mlr3
+
+userR! 2024 conference [<a href="https://survival-org.github.io/user2024-survival-mlr3/" target="_blank">tutorial</a> <i class="fab fa-github"></i>]
+
+Salzburg
+
+2024
+
+### Examining properness in the external validation of survival models with squared and logarithmic losses
+
+NORA annual conference [[slides](http://tiny.cc/scoring-rules-2024) <i class="fa-brands fa-slideshare"></i>]
+
+Kristiansand
+
+2024
+
+### Intro to ML for Survival Analysis with mlr3
+Oslo Bioinformatics Workshop Week [<a href="https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2023/index.html#05" target="_blank">link</a>]
+
+N/A
+
+2023
+
+### AI pitch: An example ML survival workflow
+
+8th annual NORBIS conference [[slides](http://tiny.cc/norbis-2022) <i class="fa-brands fa-slideshare"></i>]
+
+Rosendal
+
+2022
+
+### Reproducible Science
+Logical modeling course (Trondheim, NTNU) [[slides](https://tiny.cc/reproducibility) <i class="fa-brands fa-slideshare"></i>]
+
+N/A
+
+2022
 
 Recreational {data-icon=person-through-window}
 --------------------------------------------------------------------------------
 
-### Piano <i class="fas fa-music"></i>
+### Piano
 
 N/A
 
 N/A
 
-- <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> <i class="fab fa-youtube"></i>
-- Concerts for cancer patients, Dec 2025 ([Solo](https://kreftforeningen.no/vardesenteret/tilbud/pianokonsert-med-john/) & [4-hands](https://kreftforeningen.no/vardesenteret/tilbud/pianokonsert/) with Liliane Christ)
+- <a href="https://www.youtube.com/c/JohnZobolas" target="_blank">YouTube channel</a> <i class="fab fa-youtube"></i> <i class="fas fa-music"></i>
+- Concerts for cancer patients ([Solo](https://kreftforeningen.no/vardesenteret/tilbud/pianokonsert-med-john/) & [4-hands](https://kreftforeningen.no/vardesenteret/tilbud/pianokonsert/) with Liliane Christ)
 
-### Juggling/Unicycle/Acroyoga
+### Juggling
 
 N/A
 
 N/A
 
 - <a href="https://www.instagram.com/bblodfon312/" target="_blank">Instagram channel</a> <i class="fab fa-instagram"></i>
-
-### Outdoor Activities <i class="fa-solid fa-person-hiking"></i> <i class="fa-solid fa-person-swimming"></i> <i class="fa-solid fa-person-running"></i>
-
-N/A
-
-N/A
