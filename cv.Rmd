@@ -4,7 +4,7 @@ author: John Zobolas
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
-    css: [ "css/resume.css", "academicons-1.9.1/css/academicons.css"]
+    css: "css/resume.css"
     self_contained: false
 ---
 
@@ -59,7 +59,7 @@ Oslo University Hospital
 
 Oslo
 
-present - Oct 2025
+Present - Oct 2025
 
 - Machine learning for survival analysis and cancer research
 - High-dimensional feature selection
@@ -75,7 +75,7 @@ Oslo
 Sept 2025 - Jan 2022
 
 - PANCAIM: <b>PAN</B>creatic <b>C</b>ancer <b>AI</b> for genomics and personalized <b>M</b>edicine [[website](https://pancaim.eu/)]
-- Authored two EU project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo link</a>]
+- Authored two EU project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo</a>]
 - Co-organized seminars at the Cancer Research Institute
 - Visiting Fellow, Center for Advanced Studies, LMU Munich (Winter 2024/25)
 
@@ -87,7 +87,7 @@ Gothenburg
 
 April 2021 - Jan 2021
 
-- *Predicting bioactivity data using Matrix Factorization for target-based clustering and validation*
+<i class="fa-solid fa-diagram-project"></i> *Predicting bioactivity data using Matrix Factorization for target-based clustering and validation*
 
 ### Research stay in Molecular Interactions Team
 
@@ -97,7 +97,7 @@ Hinxton, England
 
 July 2018
 
-- *Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions*
+<i class="fa-solid fa-diagram-project"></i> *Extending the PSICQUIC Java-based Web service platform to include causality information of molecular interactions*
 
 Industry {data-icon=suitcase data-concise=true}
 --------------------------------------------------------------------------------
@@ -224,7 +224,7 @@ N/A
 
 2025 - 2024
 
-<i class="fa-solid fa-diagram-project"></i> *Implementation of Reduction Techniques for Survival Analysis in mlr3proba* [[Lifetime Data Analysis](https://doi.org/10.1007/s10985-026-09714-0) <i class="fa-regular fa-book"></i>]
+<i class="fa-solid fa-diagram-project"></i> *Implementation of Reduction Techniques for Survival Analysis in mlr3proba* [[Lifetime Data Analysis](https://doi.org/10.1007/s10985-026-09714-0) <i class="fa-regular fa-file-lines"></i>]
 
 ### Laura Szekeres
 Master student
@@ -233,7 +233,7 @@ N/A
 
 2025 - 2024
 
-<i class="fa-solid fa-diagram-project"></i> *Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python* [<a href="https://github.com/druglogics/pydruglogics" target="_blank">PyDrugLogics</a> <i class="fab fa-github"></i>] [[JOSS](https://doi.org/10.21105/joss.08038) <i class="fa-solid fa-book"></i>]
+<i class="fa-solid fa-diagram-project"></i> *Cancer Treatment gets Logical: An Ensemble Boolean Modeling Pipeline in Python* [<a href="https://github.com/druglogics/pydruglogics" target="_blank">PyDrugLogics</a> <i class="fab fa-github"></i>] [[JOSS](https://doi.org/10.21105/joss.08038) <i class="fa-regular fa-file-lines"></i>]
 
 ### Tanguy Dumontier
 Apprentice Data Engineer
@@ -251,12 +251,12 @@ N/A
 
 2024 - 2023
 
-<i class="fa-solid fa-diagram-project"></i> *Genetic Heterogeneity of Canine Mammary Tumors* [[Veterinary Oncology](https://doi.org/10.1186/s44356-025-00030-7) <i class="fa-solid fa-book"></i>]
+<i class="fa-solid fa-diagram-project"></i> *Genetic Heterogeneity of Canine Mammary Tumors* [[Veterinary Oncology](https://doi.org/10.1186/s44356-025-00030-7) <i class="fa-regular fa-file-lines"></i>]
 
 Teaching {data-icon=person-chalkboard}
 --------------------------------------------------------------------------------
 
-### ML course for cancer researchers
+### ML Course for Cancer Researchers
 Institute for Cancer Research in Oslo [[Trees&Ensembles](http://tiny.cc/trees-ensembles), [SVMs](http://tiny.cc/svm-intro), [NNs](http://tiny.cc/nn-intro) <i class="fa-brands fa-slideshare"></i>, [Benchmarking](https://github.com/bblodfon/ml-course-2022/) <i class="fa-brands fa-github"></i></i>]
 
 N/A
