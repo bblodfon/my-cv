@@ -62,7 +62,7 @@ Oslo
 Present - Oct 2025
 
 - Machine learning for survival analysis and cancer research
-- High-dimensional feature selection
+- High-dimensional, multi-omics feature selection
 - Adverse-event modeling
 - Development of open-source statistical/ML software
 
@@ -150,42 +150,47 @@ Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_bl
 Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
 
-### Prognostic biomarker discovery in pancreatic cancer through hybrid ensemble feature selection and multi-omics data
-[[BioData Mining](https://doi.org/10.1186/s13040-026-00546-0)]
+### *Prognostic biomarker discovery in pancreatic cancer through hybrid ensemble feature selection and multi-omics data*, [BioData Mining](https://doi.org/10.1186/s13040-026-00546-0)
+
+N/A
 
 N/A
 
 2026
 
-### A Large-Scale Neutral Comparison Study of Survival Models on Low-Dimensional Data
-[[Bioinformatics](https://doi.org/10.1093/bioinformatics/btag186)]
+### *A Large-Scale Neutral Comparison Study of Survival Models on Low-Dimensional Data*, [Bioinformatics](https://doi.org/10.1093/bioinformatics/btag186)
+
+N/A
 
 N/A
 
 2026
 
-### mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration
-[[Journal of Open Source Software](https://doi.org/10.21105/joss.08331)]
+### *mlr3extralearners: Expanding the mlr3 Ecosystem with Community-Driven Learner Integration*, [Journal of Open Source Software](https://doi.org/10.21105/joss.08331)
+
+N/A
 
 N/A
 
 2025
 
-### Tutorial on survival modeling with applications to omics data
-[[Bioinformatics](https://doi.org/10.1093/bioinformatics/btae132)]
+### *Tutorial on survival modeling with applications to omics data*, [Bioinformatics](https://doi.org/10.1093/bioinformatics/btae132)
+
+N/A
 
 N/A
 
 2024
 
-### Boolean function metrics can assist modelers to check and choose logical rules
-[[Journal of Theoretical Biology](https://doi.org/10.1016/j.jtbi.2022.111025)]
+### *Boolean function metrics can assist modelers to check and choose logical rules*, [Journal of Theoretical Biology](https://doi.org/10.1016/j.jtbi.2022.111025)
+
+N/A
 
 N/A
 
 2022
 
-Grants & Funding {data-icon=award}
+Funding {data-icon=award}
 --------------------------------------------------------------------------------
 ### Olav Raagholt and Gerd Meidel Raagholt Grant
 
@@ -202,8 +207,6 @@ N/A
 N/A
 
 2024
-
-\newpage
 
 Supervision {data-icon=people-carry-box}
 --------------------------------------------------------------------------------
@@ -258,37 +261,30 @@ Invited Talks, Tutorials & Conferences {data-icon=chalkboard-user}
 
 ### Intro to Machine Learning for Survival Analysis with mlr3
 
-userR! 2024 conference [<a href="https://survival-org.github.io/user2024-survival-mlr3/" target="_blank">tutorial</a> <i class="fab fa-github"></i>]
+userR! 2024 [<a href="https://survival-org.github.io/user2024-survival-mlr3/" target="_blank">tutorial</a> <i class="fab fa-github"></i>]
 
 Salzburg
 
 2024
 
-### Examining properness in the external validation of survival models with squared and logarithmic losses
+### Examining Properness in the External Validation of Survival Models with Squared and Logarithmic Losses
 
-NORA annual conference [[slides](http://tiny.cc/scoring-rules-2024) <i class="fa-brands fa-slideshare"></i>]
+NORA Annual Conference 2024 [[slides](http://tiny.cc/scoring-rules-2024) <i class="fa-brands fa-slideshare"></i>]
 
 Kristiansand
 
 2024
 
-### Intro to ML for Survival Analysis with mlr3
-Oslo Bioinformatics Workshop Week [<a href="https://www.mn.uio.no/sbi/english/events/oslo-bioinformatics-workshop-week-2023/index.html#05" target="_blank">link</a>]
+### AI pitch: An Example ML Survival Workflow
 
-N/A
-
-2023
-
-### AI pitch: An example ML survival workflow
-
-8th annual NORBIS conference [[slides](http://tiny.cc/norbis-2022) <i class="fa-brands fa-slideshare"></i>]
+NORBIS Annual Conference 2022 [[slides](http://tiny.cc/norbis-2022) <i class="fa-brands fa-slideshare"></i>]
 
 Rosendal
 
 2022
 
 ### Reproducible Science
-Logical modeling course (Trondheim, NTNU) [[slides](https://tiny.cc/reproducibility) <i class="fa-brands fa-slideshare"></i>]
+Logical Modeling Course (Trondheim, NTNU) [[slides](https://tiny.cc/reproducibility) <i class="fa-brands fa-slideshare"></i>]
 
 N/A
 
