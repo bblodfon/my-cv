@@ -9,7 +9,7 @@ output:
 ---
 
 <!-- newest free version of fontawesome --->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css">
 
 Aside
 ================================================================================
@@ -20,13 +20,13 @@ Aside
 Contact Info {#contact}
 --------------------------------------------------------------------------------
 
-- <i class="fas fa-envelope"></i> bblodfon [at] gmail [dot] com
-- <i class="fab fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon){target="_blank"}
-- <i class="fas fa-phone"></i> +47 96808973
+- <i class="fa-solid fa-envelope"></i> bblodfon [at] gmail [dot] com
+- <i class="fa-brands fa-github"></i> [github.com/bblodfon](https://github.com/bblodfon){target="_blank"}
+- <i class="fa-solid fa-phone"></i> +47 96808973
 
 Skills {#skills}
 --------------------------------------------------------------------------------
-<i class="fab fa-r-project"></i>
+<i class="fa-brands fa-r-project"></i>
 
 Books {#book}
 --------------------------------------------------------------------------------
