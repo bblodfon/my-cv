@@ -77,7 +77,7 @@ Sept 2025 - Jan 2022
 - PANCAIM: <b>PAN</B>creatic <b>C</b>ancer <b>AI</b> for genomics and personalized <b>M</b>edicine [[website](https://pancaim.eu/)]
 - Authored two EU project deliverables [<a href="https://zenodo.org/communities/pancaim/" target="_blank">Zenodo</a>]
 - Co-organized seminars at the Cancer Research Institute
-- Visiting Fellow, Center for Advanced Studies, LMU Munich (Winter 2024/25)
+- Visiting Fellow, Center for Advanced Studies, LMU (Winter 2024/25)
 
 ### Internship in Molecular AI group
 
@@ -147,7 +147,7 @@ Athens
 <i class="fa-regular fa-file-lines"></i> *Optimal Power Allocation in the uplink of Two-Tier Wireless Femtocell
 Networks* [<a href="https://github.com/bblodfon/femto-power-control" target="_blank">link</a> <i class="fab fa-github"></i>] [<a href="http://tiny.cc/john-ntua-diploma" target="_blank">Diploma</a>]
 
-Selected Publications {data-icon=book-open data-concise=true}
+Publications {data-icon=book-open data-concise=true}
 --------------------------------------------------------------------------------
 
 ### Prognostic biomarker discovery in pancreatic cancer through hybrid ensemble feature selection and multi-omics data
@@ -253,16 +253,6 @@ N/A
 
 <i class="fa-solid fa-diagram-project"></i> *Genetic Heterogeneity of Canine Mammary Tumors* [[Veterinary Oncology](https://doi.org/10.1186/s44356-025-00030-7) <i class="fa-regular fa-file-lines"></i>]
 
-Teaching {data-icon=person-chalkboard}
---------------------------------------------------------------------------------
-
-### ML Course for Cancer Researchers
-Institute for Cancer Research in Oslo [[Trees&Ensembles](http://tiny.cc/trees-ensembles), [SVMs](http://tiny.cc/svm-intro), [NNs](http://tiny.cc/nn-intro) <i class="fa-brands fa-slideshare"></i>, [Benchmarking](https://github.com/bblodfon/ml-course-2022/) <i class="fa-brands fa-github"></i></i>]
-
-N/A
-
-2022
-
 Invited Talks, Tutorials & Conferences {data-icon=chalkboard-user}
 --------------------------------------------------------------------------------
 
@@ -299,6 +289,16 @@ Rosendal
 
 ### Reproducible Science
 Logical modeling course (Trondheim, NTNU) [[slides](https://tiny.cc/reproducibility) <i class="fa-brands fa-slideshare"></i>]
+
+N/A
+
+2022
+
+Teaching {data-icon=person-chalkboard}
+--------------------------------------------------------------------------------
+
+### ML Course for Cancer Researchers
+Institute for Cancer Research in Oslo [[Trees&Ensembles](http://tiny.cc/trees-ensembles), [SVMs](http://tiny.cc/svm-intro), [NNs](http://tiny.cc/nn-intro) <i class="fa-brands fa-slideshare"></i>, [Benchmarking](https://github.com/bblodfon/ml-course-2022/) <i class="fa-brands fa-github"></i></i>]
 
 N/A
 
