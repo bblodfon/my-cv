@@ -7,7 +7,7 @@ rmarkdown::render(
   output_file = "cv.html",
   output_format = pagedown::html_resume(
     self_contained = FALSE,
-    css = c("css/resume.css", "academicons-1.9.1/css/academicons.css")
+    css = "css/resume.css"
   )
 )
 
